@@ -7,3 +7,6 @@ module TgpGeo
     Engine.config
   end
 end
+
+require 'tgp_geo/geo'
+require 'tgp_geo/geo_record'

@@ -1,4 +1,4 @@
-require 'tgp_geo/geo'
+#require 'tgp_geo/geo'
 
 module TgpGeo
 class GeoCache < ActiveRecord::Base
