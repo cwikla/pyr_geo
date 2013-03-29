@@ -19,6 +19,4 @@ Gem::Specification.new do |s|
   s.add_dependency 'geocoder', '>= 1.1.6'
 
   # s.add_dependency "jquery-rails"
-
-  s.add_development_dependency "pg"
 end
