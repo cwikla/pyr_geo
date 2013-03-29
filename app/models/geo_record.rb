@@ -1,7 +1,9 @@
+require 'geocoder'
+
 module GeoRecord
   extend ActiveSupport::Concern
 
-  included do
+  included do |base|
     before_save :update_geo
     attr_accessible :latitude,
                          :longitude,
@@ -24,6 +26,10 @@ module GeoRecord
       p = p.where(:state => geo.state) if geo.state
       p = p.where(:country => geo.country) if geo.country
       return p
+    end
+
+    def geo_precision
+      @@geo_precision ||= TgpGeo::Engine.config.tgp_geo_precision
     end
   end
 
@@ -58,7 +64,7 @@ module GeoRecord
       if self.needs_update?
   
         #puts "UPDATEING GEO"
-        new_geo = GeoCache::reverse_geocode_from_lat_long(self.latitude, self.longitude) # can also make a background job so it gets updated later
+        new_geo = GeoCache::reverse_geocode_from_lat_long(self.latitude, self.longitude, self.class.geo_precision) # can also make a background job so it gets updated later
         #puts "NEW GEO #{new_geo.inspect}"
   
         if new_geo
