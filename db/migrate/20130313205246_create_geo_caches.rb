@@ -12,5 +12,7 @@ class CreateGeoCaches < ActiveRecord::Migration
     end
 
     add_index :geo_caches, [:latitude, :longitude], :unique => true, :name => :gcllidx
+    add_index :geo_caches, [:city, :state, :country]
+    add_index :geo_caches, [:postal_code, :country]
   end
 end

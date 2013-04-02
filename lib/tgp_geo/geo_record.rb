@@ -4,7 +4,7 @@ module TgpGeo
 module GeoRecord
   extend ActiveSupport::Concern
 
-  included do |base|
+  included do
     before_save :update_geo
     attr_accessible :latitude,
                          :longitude,
