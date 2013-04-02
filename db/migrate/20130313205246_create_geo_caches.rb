@@ -4,9 +4,9 @@ class CreateGeoCaches < ActiveRecord::Migration
       t.timestamps
       t.decimal :latitude, :precision => 9, :scale => 6, :null => false
       t.decimal :longitude, :precision => 9, :scale => 6, :null => false
-      t.string :city, :limit => 64, :null => false
-      t.string :state, :limit => 64, :null => false
-      t.string :country, :limit => 2, :null => false
+      t.string :city, :limit => 64
+      t.string :state, :limit => 64
+      t.string :country, :limit => 2
       t.string :postal_code, :limit => 12
       t.string :address
     end
