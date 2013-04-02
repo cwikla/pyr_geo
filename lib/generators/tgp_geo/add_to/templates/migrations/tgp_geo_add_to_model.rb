@@ -3,9 +3,9 @@ class AddTo<%= model_name.camelcase %> < ActiveRecord::Migration
     table_name = "<%= model_name.pluralize.tableize %>".to_sym
     add_column table_name, :latitude, :decimal, :precision => 9, :scale => 6, :null => false
     add_column table_name, :longitude, :decimal, :precision => 9, :scale => 6, :null => false
-    add_column table_name, :city, :string, :limit => 64, :null => false
-    add_column table_name, :state, :string, :limit => 64, :null => false
-    add_column table_name, :country, :string, :limit => 2, :null => false
+    add_column table_name, :city, :string, :limit => 64
+    add_column table_name, :state, :string, :limit => 64
+    add_column table_name, :country, :string, :limit => 2
     add_column table_name, :postal_code, :string, :limit => 12
     add_column table_name, :address, :string
 

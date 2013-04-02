@@ -1,40 +1,39 @@
 require 'geocoder'
 
 module TgpGeo
-module GeoRecord
-  extend ActiveSupport::Concern
-
-  included do
-    before_save :update_geo
-    attr_accessible :latitude,
-                         :longitude,
-                         :country,
-                         :state,
-                         :city,
-                         :postal_code,
-                         :address
-   
-    attr_accessor :geo_moved_alot
-
-    geocoded_by :full_address
-  end
-
-  module ClassMethods
-    def by_geo(geo)
-      p = self
-      #p = p.where(:postal_code => geo.postal_code) if geo.postal_code
-      p = p.where(:city => geo.city) if geo.city
-      p = p.where(:state => geo.state) if geo.state
-      p = p.where(:country => geo.country) if geo.country
-      return p
+  module GeoRecord
+    extend ActiveSupport::Concern
+  
+    included do
+      before_save :update_geo
+      attr_accessible :latitude,
+                           :longitude,
+                           :country,
+                           :state,
+                           :city,
+                           :postal_code,
+                           :address
+     
+      attr_accessor :geo_moved_alot
+  
+      geocoded_by :full_address
     end
-
-    def geo_precision
-      @@geo_precision ||= TgpGeo::Engine.config.tgp_geo_precision
+  
+    module ClassMethods
+      def by_geo(geo)
+        p = self
+        #p = p.where(:postal_code => geo.postal_code) if geo.postal_code
+        p = p.where(:city => geo.city) if geo.city
+        p = p.where(:state => geo.state) if geo.state
+        p = p.where(:country => geo.country) if geo.country
+        return p
+      end
+  
+      def geo_precision
+        @@geo_precision ||= TgpGeo::Engine.config.tgp_geo_precision
+      end
     end
-  end
-
-  module InstanceMethods
+  
     def moved_alot?
       #puts "MOVED ALOT #{geo_moved_alot}"
       @geo_moved_alot ||= (self.city_changed? || self.state_changed? || self.country_changed?)
@@ -108,5 +107,4 @@ module GeoRecord
       end
     end
   end
-end
 end
