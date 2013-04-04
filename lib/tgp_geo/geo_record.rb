@@ -5,6 +5,8 @@ module TgpGeo
     extend ActiveSupport::Concern
   
     included do
+      @@tgp_geo_copy_sym = nil
+
       before_save :update_geo
       attr_accessible :latitude,
                            :longitude,
@@ -20,6 +22,10 @@ module TgpGeo
     end
   
     module ClassMethods
+      def copies_geo_from(obj_sym)
+        @@tgp_geo_copy_sym = obj_sym
+      end
+
       def by_geo(geo)
         p = self
         #p = p.where(:postal_code => geo.postal_code) if geo.postal_code
@@ -61,7 +67,11 @@ module TgpGeo
     
     def update_geo
       #puts "UPDATE GEO 2", self.latitude_changed?, self.longitude_changed?
-      if self.needs_update?
+
+      if @@tgp_geo_copy_sym
+        self.geo = self.send(@@tgp_geo_copy_sym).geo
+
+      elsif self.needs_update?
   
         #puts "UPDATEING GEO"
         new_geo = TgpGeo::GeoCache::reverse_geocode_from_lat_long(self.latitude, self.longitude, self.class.geo_precision) # can also make a background job so it gets updated later

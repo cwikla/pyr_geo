@@ -7,7 +7,7 @@ module TgpGeo
 
       argument :model_name, :type => :string
 
-      desc "Add tgp geo records to a table"
+      desc "Add tgp geo records to a model"
 
       def self.next_migration_number(path)
         unless @prev_migration_nr
