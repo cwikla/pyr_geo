@@ -8,6 +8,7 @@ module TgpGeo
       class << self; attr_accessor :tgp_geo_variables end
       @tgp_geo_variables = {}
 
+      before_save :check_copy_on
       before_save :update_geo
       attr_accessible :latitude,
                            :longitude,
@@ -23,7 +24,7 @@ module TgpGeo
     end
   
     module ClassMethods
-      def copies_geo_from(obj_sym)
+      def before_created_copies_geo_from(obj_sym)
         @tgp_geo_variables[:copy_sym] = obj_sym
       end
 
@@ -65,15 +66,18 @@ module TgpGeo
     def needs_update?
       return (self.no_geo? || self.latitude_changed? || self.longitude_changed?) && !self.latitude.blank? && !self.longitude.blank?
     end
+
+    def check_copy_on
+      if self.class.tgp_geo_variables[:copy_sym]
+        proxy = self.send(self.class.tgp_geo_variables[:copy_sym])
+        self.geo = proxy.geo if !proxy.nil?
+      end
+    end
     
     def update_geo
       #puts "UPDATE GEO 2", self.latitude_changed?, self.longitude_changed?
 
-      if self.class.tgp_geo_variables[:copy_sym]
-        proxy = self.send(self.class.tgp_geo_variables[:copy_sym])
-        self.geo = proxy.geo if !proxy.nil?
-
-      elsif self.needs_update?
+      if !self.class.tgp_geo_variables[:copy_sym] && self.needs_update?
   
         #puts "UPDATEING GEO"
         new_geo = TgpGeo::GeoCache::reverse_geocode_from_lat_long(self.latitude, self.longitude, self.class.geo_precision) # can also make a background job so it gets updated later
