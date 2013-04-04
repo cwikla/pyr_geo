@@ -5,7 +5,8 @@ module TgpGeo
     extend ActiveSupport::Concern
   
     included do
-      @@tgp_geo_copy_sym = nil
+      class << self; attr_accessor :tgp_geo_variables end
+      @tgp_geo_variables = {}
 
       before_save :update_geo
       attr_accessible :latitude,
@@ -23,7 +24,7 @@ module TgpGeo
   
     module ClassMethods
       def copies_geo_from(obj_sym)
-        @@tgp_geo_copy_sym = obj_sym
+        @tgp_geo_variables[:copy_sym] = obj_sym
       end
 
       def by_geo(geo)
@@ -36,7 +37,7 @@ module TgpGeo
       end
   
       def geo_precision
-        @@geo_precision ||= TgpGeo::Engine.config.tgp_geo_precision
+        @tgp_geo_variables[:geo_precision] ||= TgpGeo::Engine.config.tgp_geo_precision
       end
     end
   
@@ -68,8 +69,9 @@ module TgpGeo
     def update_geo
       #puts "UPDATE GEO 2", self.latitude_changed?, self.longitude_changed?
 
-      if @@tgp_geo_copy_sym
-        self.geo = self.send(@@tgp_geo_copy_sym).geo
+      if self.class.tgp_geo_variables[:copy_sym]
+        proxy = self.send(self.class.tgp_geo_variables[:copy_sym])
+        self.geo = proxy.geo if !proxy.nil?
 
       elsif self.needs_update?
   
