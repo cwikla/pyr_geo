@@ -43,7 +43,7 @@ module TgpGeo
     end
   
     def moved_alot?
-      #puts "MOVED ALOT #{geo_moved_alot}"
+      Rails.logger.debug "MOVED ALOT #{geo_moved_alot}"
       @geo_moved_alot ||= (self.city_changed? || self.state_changed? || self.country_changed?)
     end
   
@@ -75,13 +75,13 @@ module TgpGeo
     end
     
     def update_geo
-      #puts "UPDATE GEO 2", self.latitude_changed?, self.longitude_changed?
+      Rails.logger.debug "UPDATE GEO 2", self.latitude_changed?, self.longitude_changed?
 
       if !self.class.tgp_geo_variables[:copy_sym] && self.needs_update?
   
-        #puts "UPDATEING GEO"
+        Rails.logger.debug "UPDATEING GEO"
         new_geo = TgpGeo::GeoCache::reverse_geocode_from_lat_long(self.latitude, self.longitude, self.class.geo_precision) # can also make a background job so it gets updated later
-        #puts "NEW GEO #{new_geo.inspect}"
+        Rails.logger.debug "NEW GEO #{new_geo.inspect}"
   
         if new_geo
           self.geo = new_geo

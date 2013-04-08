@@ -371,13 +371,13 @@ class Geo
       s = "#{args[0]}"
     end
 
-    #puts "GEOCODE SEARCH => [ #{s} ] "
+    Rails.logger.debug "GEOCODE SEARCH => [ #{s} ] "
     result = Geocoder.search(s)
     return nil if result.nil?
 
 
     result = result[0]
-    #puts "GEO: #{result.inspect}"
+    Rails.logger.debug "GEO: #{result.inspect}"
 
     return nil if result.nil?
 
