@@ -2,7 +2,7 @@
 
 module TgpGeo
 class GeoCache < ActiveRecord::Base
-  include GeoRecord
+  include TgpGeo::Model::GeoRecord
   acts_as_simple_cache
 
   #before_save :shorten_lat_lng

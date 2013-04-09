@@ -1,6 +1,7 @@
 require 'geocoder'
 
 module TgpGeo
+  module Model
   module GeoRecord
     extend ActiveSupport::Concern
   
@@ -75,7 +76,7 @@ module TgpGeo
     end
     
     def update_geo
-      Rails.logger.debug "UPDATE GEO 2", self.latitude_changed?, self.longitude_changed?
+      Rails.logger.debug "UPDATE GEO 2, #{self.latitude_changed?}, #{self.longitude_changed?}"
 
       if !self.class.tgp_geo_variables[:copy_sym] && self.needs_update?
   
@@ -122,5 +123,6 @@ module TgpGeo
         #self.address = vars[:address] if vars[:address]
       end
     end
+  end
   end
 end
