@@ -1,8 +1,10 @@
-#require 'tgp_geo/geo'
+#require 'tgp/geo/geo'
 
-module TgpGeo
+module Tgp
+module Geo
 class GeoCache < ActiveRecord::Base
-  include TgpGeo::Model::GeoRecord
+  include Tgp::Geo::Model::GeoRecord
+
   acts_as_simple_cache
 
   #before_save :shorten_lat_lng
@@ -38,7 +40,7 @@ class GeoCache < ActiveRecord::Base
     if geo_cache.nil?
 
       puts "REVERSE GEOCODING #{latitude}/#{longitude}"
-      geo = TgpGeo::Geo::reverse_geocode_from_lat_long(latitude, longitude)
+      geo = Tgp::Geo::Geo::reverse_geocode_from_lat_long(latitude, longitude)
       puts "GEO => #{geo.inspect}"
       if geo && geo.latitude && geo.longitude
         geo_cache = GeoCache.new
@@ -115,5 +117,6 @@ class GeoCache < ActiveRecord::Base
     self.longitude = GeoCache.safe(self.longitude) if self.longitude
   end
 
+end
 end
 end

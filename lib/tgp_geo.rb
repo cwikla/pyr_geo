@@ -1,13 +1,15 @@
-require "tgp_geo/engine"
+require "tgp/geo/engine"
 
-require 'tgp_geo/geo'
-require 'tgp_geo/model/geo_record'
+require 'tgp/geo/geo'
+require 'tgp/geo/model/geo_record'
 
-module TgpGeo
+module Tgp
+  module Geo
 
-  def self.config(&block)
-    yield Engine.config if block
-    Engine.config
+    def self.config(&block)
+      yield Engine.config if block
+      Engine.config
+    end
   end
 end
 

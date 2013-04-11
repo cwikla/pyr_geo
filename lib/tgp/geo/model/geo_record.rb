@@ -1,6 +1,7 @@
 require 'geocoder'
 
-module TgpGeo
+module Tgp
+  module Geo
   module Model
   module GeoRecord
     extend ActiveSupport::Concern
@@ -39,7 +40,7 @@ module TgpGeo
       end
   
       def geo_precision
-        @tgp_geo_variables[:geo_precision] ||= TgpGeo::Engine.config.tgp_geo_precision
+        @tgp_geo_variables[:geo_precision] ||= Tgp::Geo::Engine.config.tgp_geo_precision
       end
     end
   
@@ -81,7 +82,7 @@ module TgpGeo
       if !self.class.tgp_geo_variables[:copy_sym] && self.needs_update?
   
         Rails.logger.debug "UPDATEING GEO"
-        new_geo = TgpGeo::GeoCache::reverse_geocode_from_lat_long(self.latitude, self.longitude, self.class.geo_precision) # can also make a background job so it gets updated later
+        new_geo = Tgp::Geo::GeoCache::reverse_geocode_from_lat_long(self.latitude, self.longitude, self.class.geo_precision) # can also make a background job so it gets updated later
         Rails.logger.debug "NEW GEO #{new_geo.inspect}"
   
         if new_geo
@@ -94,7 +95,7 @@ module TgpGeo
     end
     
     def geo
-      g = TgpGeo::Geo.new
+      g = Tgp::Geo::Geo.new
     
       g.latitude = self.latitude
       g.longitude = self.longitude
@@ -123,6 +124,7 @@ module TgpGeo
         #self.address = vars[:address] if vars[:address]
       end
     end
+  end
   end
   end
 end

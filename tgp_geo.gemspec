@@ -1,12 +1,12 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain your gem's version:
-require "tgp_geo/version"
+require "tgp/geo/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "tgp_geo"
-  s.version     = TgpGeo::VERSION
+  s.version     = Tgp::Geo::VERSION
   s.authors     = ["The Giant Pixel"]
   s.email       = ["extapi@thegiantpixel.com"]
   #s.homepage    = ["http://www.thegiantpixel.com"]

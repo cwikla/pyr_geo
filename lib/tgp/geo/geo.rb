@@ -1,5 +1,7 @@
-module TgpGeo
-class Geo
+module Tgp
+  module Geo
+  class Geo
+  
 
   attr_accessor :latitude, :longitude, :country, :state, :city, :postal_code, :address
 
@@ -394,5 +396,6 @@ class Geo
   def self.reverse_geocode_from_lat_long(lat, long)
     self.reverse_geocode("#{lat}, #{long}")
   end
+end
 end
 end
