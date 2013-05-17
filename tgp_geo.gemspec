@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["The Giant Pixel"]
   s.email       = ["extapi@thegiantpixel.com"]
   #s.homepage    = ["http://www.thegiantpixel.com"]
-  s.summary     = ["Geographic support library"]
-  s.description = ["Geographic support library"]
+  s.summary     = "Geographic support library"
+  s.description = "Geographic support library"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
