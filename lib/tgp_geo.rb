@@ -2,6 +2,7 @@ require "tgp/geo/engine"
 
 require 'tgp/geo/geo'
 require 'tgp/geo/model/geo_record'
+require 'tgp/geo/version'
 
 module Tgp
   module Geo
