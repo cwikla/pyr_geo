@@ -1,13 +1,13 @@
 PATH
   remote: .
   specs:
-    tgp_geo (0.1.0)
+    tgp_geo (0.2.0)
       geocoder (>= 1.1.6)
 
 PATH
   remote: ../tgp-rails-base
   specs:
-    tgp_base (0.1.0)
+    tgp_base (0.2.0)
       acts_as_paranoid (>= 0.4.1)
       aws-sdk (~> 1.6.9)
       cancan
