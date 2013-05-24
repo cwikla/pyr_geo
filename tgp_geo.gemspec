@@ -18,7 +18,6 @@ Gem::Specification.new do |s|
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", "~> 3.2.8"
-  s.add_dependency "tgp_gem"
 
   s.add_dependency 'geocoder', '>= 1.1.6'
 
