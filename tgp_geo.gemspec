@@ -12,10 +12,13 @@ Gem::Specification.new do |s|
   s.homepage    = "http://www.thegiantpixel.com"
   s.summary     = "Geographic support library"
   s.description = "Geographic support library Description"
-  s.post_install_message = "You can lead a horse to water, but you can't make it fish"
+  s.post_install_message = "You can lead a horse to water, but you can't teach it to fish"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["Rakefile"]
   s.test_files = Dir["test/**/*"]
+
+  s.add_dependency "rails", "~> 3.2.8"
+  s.add_dependency "tgp_gem"
 
   s.add_dependency 'geocoder', '>= 1.1.6'
 
