@@ -1,14 +1,13 @@
 PATH
   remote: .
   specs:
-    tgp_geo (0.2.2)
+    tgp_geo (0.2.3)
       geocoder (>= 1.1.6)
       rails (~> 3.2.8)
-      tgp_gem
 
 GEM
   remote: http://rubygems.org/
-  remote: http://extapi:bobafett42@gems.thegiantpixel.com/
+  remote: http://tgpgems:c3po42@gems.thegiantpixel.com/
   specs:
     actionmailer (3.2.13)
       actionpack (= 3.2.13)

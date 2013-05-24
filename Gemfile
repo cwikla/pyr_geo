@@ -1,5 +1,5 @@
 source "http://rubygems.org"
-source "http://extapi:bobafett42@gems.thegiantpixel.com/"
+source "http://tgpgems:c3po42@gems.thegiantpixel.com/"
 
 # Declare your gem's dependencies in tgp_geo.gemspec.
 # Bundler will treat runtime dependencies like base dependencies, and
