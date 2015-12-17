@@ -268,10 +268,11 @@ module Tgp
     "British Columbia" => "BC",
     "Prince Edward Island" => "PE",
     "Saskatchewan" => "SK",
-    "Alberta" => "Alberta",
+    "Alberta" => "AB",
     "Newfoundland" => "NL",
     "Labrador" => "NL",
-    "Newfoundland and Labrador" => "NL"
+    "Newfoundland and Labrador" => "NL",
+    "Northwest Territories" => "NT",
   }.each_with_object({}) do |(k,v), h| h[k.upcase] = v end
 
   US_STATE_NAMES_TO_SHORT = {
