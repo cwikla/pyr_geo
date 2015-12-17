@@ -1,5 +1,4 @@
 source "http://rubygems.org"
-source "http://tgpgems:c3po42@gems.thegiantpixel.com/"
 
 # Declare your gem's dependencies in tgp_geo.gemspec.
 # Bundler will treat runtime dependencies like base dependencies, and
@@ -8,7 +7,10 @@ gemspec
 
 # jquery-rails is used by the dummy application
 gem "jquery-rails"
-gem "tgp_gem"
+
+source "http://tgpgems:c3po42@gems.thegiantpixel.com/" do
+  gem "tgp_gem"
+end
 
 # Declare any dependencies that are still in development here instead of in
 # your gemspec. These might include edge Rails or gems from your path or
