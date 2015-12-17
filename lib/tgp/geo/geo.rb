@@ -325,6 +325,7 @@ module Tgp
     "West Virginia"=>  "WV",
     "Wisconsin"	=>   "WI",
     "Wyoming"	=>   "WY",
+    "District of Columbia" => "DC"
   }.each_with_object({}) do |(k,v), h| h[k.upcase] = v end
 
   def initialize(args={})
