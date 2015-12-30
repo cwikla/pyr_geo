@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tgp_geo (0.2.4)
+    tgp_geo (0.2.5)
       geocoder (>= 1.1.6)
       rails (~> 3.2.8)
 
