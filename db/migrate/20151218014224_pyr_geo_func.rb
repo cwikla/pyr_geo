@@ -1,10 +1,10 @@
-class TgpGeoFunc < ActiveRecord::Migration
+class PyrGeoFunc < ActiveRecord::Migration
   def up
     execute <<CMD
--- Haversine Formula based tgp_geo_distance in miles (constant is diameter of Earth in miles)
+-- Haversine Formula based pyr_geo_distance in miles (constant is diameter of Earth in miles)
 -- Based on a similar PostgreSQL function found here: https://gist.github.com/831833
 -- Updated to use distance formulas found here: http://www.codecodex.com/wiki/Calculate_distance_between_two_points_on_a_globe
-CREATE OR REPLACE FUNCTION tgp_geo_distance(alat double precision, alng double precision, blat double precision, blng double precision)
+CREATE OR REPLACE FUNCTION pyr_geo_distance(alat double precision, alng double precision, blat double precision, blng double precision)
   RETURNS double precision AS 
 $BODY$
 SELECT asin(

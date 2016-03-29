@@ -1,14 +1,14 @@
 require 'geocoder'
 
-module Tgp
+module Pyr
   module Geo
   module Model
   module GeoRecord
     extend ActiveSupport::Concern
   
     included do
-      class << self; attr_accessor :tgp_geo_variables end
-      @tgp_geo_variables = {}
+      class << self; attr_accessor :pyr_geo_variables end
+      @pyr_geo_variables = {}
 
       before_save :check_copy_on
       before_save :update_geo
@@ -27,7 +27,7 @@ module Tgp
   
     module ClassMethods
       def before_created_copies_geo_from(obj_sym)
-        @tgp_geo_variables[:copy_sym] = obj_sym
+        @pyr_geo_variables[:copy_sym] = obj_sym
       end
 
       def by_geo(geo)
@@ -40,7 +40,7 @@ module Tgp
       end
   
       def geo_precision
-        @tgp_geo_variables[:geo_precision] ||= Tgp::Geo::Engine.config.tgp_geo_precision
+        @pyr_geo_variables[:geo_precision] ||= Pyr::Geo::Engine.config.pyr_geo_precision
       end
     end
   
@@ -70,8 +70,8 @@ module Tgp
     end
 
     def check_copy_on
-      if self.class.tgp_geo_variables[:copy_sym]
-        proxy = self.send(self.class.tgp_geo_variables[:copy_sym])
+      if self.class.pyr_geo_variables[:copy_sym]
+        proxy = self.send(self.class.pyr_geo_variables[:copy_sym])
         self.geo = proxy.geo if !proxy.nil?
       end
     end
@@ -79,10 +79,10 @@ module Tgp
     def update_geo
       Rails.logger.debug "UPDATE GEO 2, #{self.latitude_changed?}, #{self.longitude_changed?}"
 
-      if !self.class.tgp_geo_variables[:copy_sym] && self.needs_update?
+      if !self.class.pyr_geo_variables[:copy_sym] && self.needs_update?
   
         Rails.logger.debug "UPDATEING GEO"
-        new_geo = Tgp::Geo::GeoCache::reverse_geocode_from_lat_long(self.latitude, self.longitude, self.class.geo_precision) # can also make a background job so it gets updated later
+        new_geo = Pyr::Geo::GeoCache::reverse_geocode_from_lat_long(self.latitude, self.longitude, self.class.geo_precision) # can also make a background job so it gets updated later
         Rails.logger.debug "NEW GEO #{new_geo.inspect}"
   
         if new_geo
@@ -95,7 +95,7 @@ module Tgp
     end
     
     def geo
-      g = Tgp::Geo::Geo.new
+      g = Pyr::Geo::Geo.new
     
       g.latitude = self.latitude
       g.longitude = self.longitude

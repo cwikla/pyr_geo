@@ -1,4 +1,4 @@
-module Tgp
+module Pyr
   module Geo
   class Geo
   

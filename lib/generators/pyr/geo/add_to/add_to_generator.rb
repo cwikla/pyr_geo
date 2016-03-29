@@ -1,4 +1,4 @@
-module Tgp
+module Pyr
   module Geo
     module Generators
       class AddToGenerator < ::Rails::Generators::Base
@@ -8,7 +8,7 @@ module Tgp
   
         argument :model_name, :type => :string
   
-        desc "Add tgp geo records to a model"
+        desc "Add pyr geo records to a model"
   
         def self.next_migration_number(path)
           unless @prev_migration_nr
@@ -20,7 +20,7 @@ module Tgp
         end
   
         def copy_migrations
-          migration_template "migrations/tgp_geo_add_to_model.rb", "db/migrate/add_to_#{model_name}.tgp_geo.rb"
+          migration_template "migrations/pyr_geo_add_to_model.rb", "db/migrate/add_to_#{model_name}.pyr_geo.rb"
         end
   
       end

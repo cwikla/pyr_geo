@@ -1,9 +1,9 @@
-#require 'tgp/geo/geo'
+#require 'pyr/geo/geo'
 
-module Tgp
+module Pyr
 module Geo
 class GeoCache < ActiveRecord::Base
-  include Tgp::Geo::Model::GeoRecord
+  include Pyr::Geo::Model::GeoRecord
 
   acts_as_simple_cache
 
@@ -40,7 +40,7 @@ class GeoCache < ActiveRecord::Base
     if geo_cache.nil?
 
       puts "REVERSE GEOCODING #{latitude}/#{longitude}"
-      geo = Tgp::Geo::Geo::reverse_geocode_from_lat_long(latitude, longitude)
+      geo = Pyr::Geo::Geo::reverse_geocode_from_lat_long(latitude, longitude)
       puts "GEO => #{geo.inspect}"
       if geo && geo.latitude && geo.longitude
         geo_cache = GeoCache.new
