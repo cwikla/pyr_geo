@@ -3,7 +3,7 @@ require 'geocoder'
 module Pyr
   module Geo
   module Model
-  module GeoRecord
+  module Geo
     extend ActiveSupport::Concern
   
     included do
@@ -12,13 +12,13 @@ module Pyr
 
       before_save :check_copy_on
       before_save :update_geo
-      attr_accessible :latitude,
-                           :longitude,
-                           :country,
-                           :state,
-                           :city,
-                           :postal_code,
-                           :address
+      #attr_accessible :latitude,
+                           #:longitude,
+                           #:country,
+                           #:state,
+                           #:city,
+                           #:postal_code,
+                           #:address
      
       attr_accessor :geo_moved_alot
   
@@ -95,7 +95,7 @@ module Pyr
     end
     
     def geo
-      g = Pyr::Geo::Geo.new
+      g = Pyr::Geo::Model::Geo.new
     
       g.latitude = self.latitude
       g.longitude = self.longitude

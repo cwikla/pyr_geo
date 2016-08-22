@@ -1,6 +1,5 @@
-module Pyr
-  module Geo
-  class Geo
+module Pyr::Geo
+  class Coder
   
 
   attr_accessor :latitude, :longitude, :country, :state, :city, :postal_code, :address
@@ -385,7 +384,7 @@ module Pyr
 
     return nil if result.nil?
 
-    Geo.new( :latitude => result.latitude,
+    Coder.new( :latitude => result.latitude,
              :longitude => result.longitude,
              :country => result.country_code, 
              :state => result.state_code, 
@@ -398,6 +397,5 @@ module Pyr
   def self.reverse_geocode_from_lat_long(lat, long)
     self.reverse_geocode("#{lat}, #{long}")
   end
-end
 end
 end

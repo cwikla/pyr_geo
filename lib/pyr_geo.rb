@@ -1,7 +1,5 @@
 require "pyr/geo/engine"
-
-require 'pyr/geo/geo'
-require 'pyr/geo/model/geo_record'
+require 'pyr/geo/model/geo'
 require 'pyr/geo/version'
 
 module Pyr
