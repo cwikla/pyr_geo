@@ -1,4 +1,5 @@
-require "pyr/geo/engine"
+require 'pyr/geo/engine'
+require 'pyr/geo/util/coder'
 require 'pyr/geo/model/geo'
 require 'pyr/geo/version'
 

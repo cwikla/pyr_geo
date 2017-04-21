@@ -39,7 +39,7 @@ module Pyr::Geo
       if geo_cache.nil?
   
         puts "REVERSE GEOCODING #{latitude}/#{longitude}"
-        geo = Pyr::Geo::Coder::reverse_geocode_from_lat_long(latitude, longitude)
+        geo = Pyr::Geo::Util::Coder::reverse_geocode_from_lat_long(latitude, longitude)
         puts "GEO => #{geo.inspect}"
         if geo && geo.latitude && geo.longitude
           geo_cache = GeoCache.new
