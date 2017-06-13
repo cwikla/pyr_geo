@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = "Geographic support library Description"
   s.post_install_message = "You can lead a horse to water, but you can't teach it to fish"
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["Rakefile"]
+  s.files = Dir["{app,config,db,lib,data}/**/*"] + ["Rakefile"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", ">= 5.0.0"
