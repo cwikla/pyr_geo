@@ -1,12 +1,14 @@
 require 'csv'
 
+ENCODING = "iso-8859-1:UTF-8"
+
 class AddGeoCitiesData < ActiveRecord::Migration[5.0]
   def up
     GeoCity.reset_column_information
     location = Gem.loaded_specs['pyr_geo'].full_gem_path
 
-    Pyr::Base::Util::File::unpacker("#{location}/data/worldcitiespop/*.gz", encoding: "windows-1251:utf-8") do |gzip|
-      i = 0
+    i = 0
+    Pyr::Base::Util::File::unpacker("#{location}/data/worldcitiespop/*.gz", encoding: ENCODING) do |gzip|
       csv = CSV.new(gzip)
       csv.each do |l|
         i = i + 1
