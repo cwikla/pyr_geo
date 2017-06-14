@@ -1,5 +1,5 @@
 module Pyr
   module Geo
-    VERSION = "3.0.0"
+    VERSION = "3.1.0"
   end
 end
