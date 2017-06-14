@@ -5,6 +5,10 @@ module Pyr::Geo::Util
 
       attr_accessor :latitude, :longitude, :country, :state, :city, :postal_code, :address
 
+      RAD_2_DEG =  (180.0/Math::PI)
+      DEG_2_RAD = (Math::PI/180.0)
+      EARTH_RADIUS = 6371.0
+
       COUNTRY_NAMES_TO_ISO = {
         "AFGHANISTAN"=>"AF",
         "ALAND ISLANDS"=>"AX",
@@ -367,7 +371,7 @@ module Pyr::Geo::Util
     def to_s
       as_dict.to_s
     end
-    
+
     def self.reverse_geocode(*args)
       if args.length > 1
         s = args.map{ |m| "#{m}" }.join(",")
@@ -398,5 +402,45 @@ module Pyr::Geo::Util
     def self.reverse_geocode_from_lat_long(lat, long)
       self.reverse_geocode("#{lat}, #{long}")
     end
+
+    def self.to_cartesian_coords(latitude, longitude) 
+      lat_rad = DEG_2_RAD * latitude
+      lng_rad = DEG_2_RAD * longitude
+  
+      x = EARTH_RADIUS * Math.cos(lat_rad) * Math.cos(lng_rad);
+      y = EARTH_RADIUS * Math.cos(lat_rad) * Math.sin(lng_rad);
+      z = EARTH_RADIUS * Math.sin(lat_rad); 
+  
+      return [x, y, z]
+    end
+  
+    def self.to_lat_lng(x, y, z)
+      r = Math.sqrt(x*x + y*y + z*z)
+      lat = RAD_2_DEG * Math.asin(z / r)
+      lng = RAD_2_DEG * Math.atan2(y, x)
+      return [lat, lng]
+    end
+  
+    def self.cluster(lats_and_lngs)
+      #puts "CLUSTERING #{lats_and_lngs}"
+      x, y, z = 0, 0, 0
+  
+      lats_and_lngs.each do |item|
+        lat, lng = item
+        #puts "LAT => #{lat}, LNG => #{lng}"
+        val = to_cartesian_coords(lat, lng)
+        x = x + val[0]
+        y = y + val[1]
+        z = z + val[2]
+      end
+
+      count = lats_and_lngs.count
+      x = x / count
+      y = y / count
+      z = z / count
+
+      return to_lat_lng(x, y, z)
+    end
+      
   end
 end
