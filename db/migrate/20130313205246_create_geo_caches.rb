@@ -1,4 +1,4 @@
-class CreateGeoCaches < ActiveRecord::Migration
+class CreateGeoCaches < ActiveRecord::Migration[5.1]
   def change
     create_table(:pyr_geo_caches) do |t|
       t.timestamps

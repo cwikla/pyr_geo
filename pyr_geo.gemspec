@@ -17,7 +17,8 @@ Gem::Specification.new do |s|
   s.files = Dir["{app,config,db,lib,data}/**/*"] + ["Rakefile"]
   s.test_files = Dir["test/**/*"]
 
-  s.add_dependency "rails", ">= 5.0.0"
+  s.add_dependency "rails", ">= 5.1.1"
 
   s.add_dependency 'geocoder', ">= 1.3.1"
+  s.add_dependency 'pyr_base', ">= 8.3.0"
 end
