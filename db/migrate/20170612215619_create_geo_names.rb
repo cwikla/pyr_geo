@@ -3,6 +3,8 @@ class CreateGeoNames < ActiveRecord::Migration[5.0]
   def change
     create_table :pyr_geo_names do |t|
       t.timestamps
+      t.timestamp :deleted_at
+
       t.string :iso_country, :limit => 2, :null => false
       t.string :postal_code, :limit => 20
       t.string :name, :null => false

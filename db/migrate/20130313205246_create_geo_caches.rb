@@ -2,6 +2,8 @@ class CreateGeoCaches < ActiveRecord::Migration[5.1]
   def change
     create_table(:pyr_geo_caches) do |t|
       t.timestamps
+      t.timestamp :deleted_at
+
       t.decimal :latitude, :precision => 9, :scale => 6, :null => false
       t.decimal :longitude, :precision => 9, :scale => 6, :null => false
       t.string :city, :limit => 64
@@ -13,6 +15,6 @@ class CreateGeoCaches < ActiveRecord::Migration[5.1]
 
     add_index :pyr_geo_caches, [:latitude, :longitude], :unique => true, :name => :gcllidx
     add_index :pyr_geo_caches, [:city, :state, :country]
-    add_index :pyr_ogeo_caches, [:postal_code, :country]
+    add_index :pyr_geo_caches, [:postal_code, :country]
   end
 end
