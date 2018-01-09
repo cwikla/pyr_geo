@@ -1,0 +1,1552 @@
+rw,agatwi,Agatwi,09,,-1.8847222,30.0686111
+rw,astrida,Astrida,01,,-2.5972222,29.7388889
+rw,banda,Banda,03,,-2.4333333,29.1833333
+rw,bandazi,Bandazi,09,,-1.9333333,30.2333333
+rw,basa,Basa,05,,-1.6833333,29.35
+rw,bganga,Bganga,02,,-1.45,30.4333333
+rw,bibale,Bibale,02,,-1.4666667,30.2333333
+rw,bicumbi,Bicumbi,09,,-1.9966667,30.3497222
+rw,bigutu,Bigutu,03,,-2.4833333,28.9833333
+rw,biguzi,Biguzi,03,,-2.4333333,28.9666667
+rw,bihe,Bihe,05,,-1.6333333,29.3666667
+rw,bihembe,Bihembe,09,,-2.0666667,30.2833333
+rw,bilembo,Bilembo,05,,-1.6833333,29.5166667
+rw,binana,Binana,05,,-1.75,29.6333333
+rw,birenga,Birenga,07,,-2.1816667,30.5325
+rw,biru,Biru,03,,-2.5411111,28.9186111
+rw,bisaga,Bisaga,10,,-1.4833333,29.85
+rw,bishyiga,Bishyiga,04,,-2.4333333,29.45
+rw,bitare,Bitare,01,,-2.6833333,29.65
+rw,bitare,Bitare,03,,-2.4,29.05
+rw,biumba,Biumba,02,,-1.5775,30.0625
+rw,buberuka,Buberuka,10,,-1.4883333,29.8352778
+rw,budaya,Budaya,05,,-1.75,29.3166667
+rw,bugali,Bugali,01,,-2.4333333,29.8833333
+rw,bugaragara,Bugaragara,02,,-1.5502778,30.0411111
+rw,bugaragara,Bugaragara,09,,-1.9166667,29.9666667
+rw,bugarama,Bugarama,03,,-2.6469444,29.0094444
+rw,bugarura,Bugarura,09,,-1.7502778,30.3327778
+rw,bugesera,Bugesera,09,,-2.1455556,30.0913889
+rw,bugindi,Bugindi,02,,-1.4833333,29.9333333
+rw,bugobagoba,Bugobagoba,06,,-2.0166667,29.8833333
+rw,bugoya,Bugoya,07,,-1.6833333,30.5
+rw,bugu,Bugu,05,,-1.6333333,29.3
+rw,buguma,Buguma,02,,-1.45,30.1833333
+rw,bugungu,Bugungu,03,,-2.4333333,28.9833333
+rw,buhimba,Buhimba,01,,-2.4333333,29.7666667
+rw,buhokoro,Buhokoro,03,,-2.3333333,29.0166667
+rw,buhongo,Buhongo,05,,-1.8833333,29.3
+rw,buhoro,Buhoro,05,,-1.9,29.3
+rw,buhuga,Buhuga,10,,-1.6166667,29.7333333
+rw,buhungwe,Buhungwe,05,,-1.5833333,29.3833333
+rw,bukamba,Bukamba,02,,-1.3875,30.2575
+rw,bukaragata,Bukaragata,10,,-1.45,29.8833333
+rw,bukarakata,Bukarakata,10,,-1.45,29.8833333
+rw,bukekele,Bukekele,02,,-1.3333333,30.2833333
+rw,bukondjo,Bukondjo,05,,-1.6,29.3166667
+rw,bulega,Bulega,09,,-1.7333333,30.0333333
+rw,bulenga,Bulenga,02,,-1.6833333,30.05
+rw,bulengera,Bulengera,05,,-1.595,29.32
+rw,bulimba,Bulimba,09,,-1.7333333,29.85
+rw,bulinga,Bulinga,06,,-1.9977778,29.6972222
+rw,bumazi,Bumazi,03,,-2.45,29.0
+rw,bumbogo,Bumbogo,09,,-1.7130556,29.8530556
+rw,bunga,Bunga,01,,-2.7,29.65
+rw,bungeshi mukuru,Bungeshi Mukuru,05,,-1.5422222,29.3830556
+rw,bunyambilili,Bunyambilili,04,,-2.3283333,29.5302778
+rw,bunyereri,Bunyereri,03,,-2.5833333,29.0333333
+rw,burama,Burama,01,,-2.3166667,29.8166667
+rw,burega,Burega,10,,-1.6666667,29.7
+rw,burenga,Burenga,02,,-1.6491667,30.0313889
+rw,burere,Burere,05,,-1.6333333,29.3166667
+rw,busekera,Busekera,03,,-2.6,28.9166667
+rw,bushara,Bushara,02,,-1.3333333,30.1666667
+rw,bushenyi,Bushenyi,09,,-1.9508333,30.3952778
+rw,bushiga,Bushiga,02,,-1.6666667,29.9333333
+rw,bushingamohetu,Bushingamohetu,02,,-1.55,29.95
+rw,bushoka,Bushoka,10,,-1.5833333,29.7333333
+rw,butale,Butale,09,,-1.8666667,30.1
+rw,butambamo,Butambamo,03,,-2.65,28.95
+rw,butambara,Butambara,03,,-2.3333333,29.0872222
+rw,butambwe,Butambwe,10,,-1.7,29.6666667
+rw,butamwa,Butamwa,09,,-2.0266667,30.0258333
+rw,butandi,Butandi,10,,-1.4833333,29.9
+rw,butare,Butare,01,89709,-2.5966667,29.7394444
+rw,butaro,Butaro,10,,-1.4,29.8333333
+rw,butete,Butete,10,,-1.3791667,29.7358333
+rw,butezi,Butezi,05,,-1.8833333,29.6166667
+rw,butozo,Butozo,02,,-1.4666667,30.05
+rw,buvali,Buvali,02,,-1.1666667,30.3166667
+rw,buvumu,Buvumu,01,,-2.6833333,29.7333333
+rw,buyanga,Buyanga,10,,-1.4166667,29.8166667
+rw,buyenzi,Buyenzi,04,,-2.7177778,29.5344444
+rw,buyoga,Buyoga,02,,-1.69,30.0136111
+rw,buyoga,Buyoga,07,,-1.6833333,30.5
+rw,buzigi,Buzigi,02,,-1.7,29.95
+rw,bwakira,Bwakira,08,,-2.1575,29.5497222
+rw,bweya,Bweya,02,,-1.2666667,30.2666667
+rw,bwisha,Bwisha,10,,-1.65,29.7333333
+rw,bwishya,Bwishya,02,,-1.4166667,30.1166667
+rw,bwisige,Bwisige,02,,-1.5761111,30.1555556
+rw,byumba,Byumba,02,70586,-1.5775,30.0625
+rw,churusi,Churusi,01,,-2.4666667,29.85
+rw,chyugi,Chyugi,05,,-1.7,29.55
+rw,chyuna,Chyuna,01,,-2.7,29.6
+rw,colline bandazi,Colline Bandazi,09,,-1.9333333,30.2333333
+rw,colline basa,Colline Basa,05,,-1.6833333,29.35
+rw,colline bganga,Colline Bganga,02,,-1.45,30.4333333
+rw,colline bibale,Colline Bibale,02,,-1.4666667,30.2333333
+rw,colline bigutu,Colline Bigutu,03,,-2.4833333,28.9833333
+rw,colline biguzi,Colline Biguzi,03,,-2.4333333,28.9666667
+rw,colline bihe,Colline Bihe,05,,-1.6333333,29.3666667
+rw,colline bihembe,Colline Bihembe,09,,-2.0666667,30.2833333
+rw,colline bilembo,Colline Bilembo,05,,-1.6833333,29.5166667
+rw,colline binana,Colline Binana,05,,-1.75,29.6333333
+rw,colline bisaga,Colline Bisaga,10,,-1.4833333,29.85
+rw,colline bishyiga,Colline Bishyiga,04,,-2.4333333,29.45
+rw,colline bitare,Colline Bitare,01,,-2.6833333,29.65
+rw,colline bitare,Colline Bitare,03,,-2.4,29.05
+rw,colline budaya,Colline Budaya,05,,-1.75,29.3166667
+rw,colline bugali,Colline Bugali,01,,-2.4333333,29.8833333
+rw,colline bugaragara,Colline Bugaragara,09,,-1.9166667,29.9666667
+rw,colline bugarura,Colline Bugarura,09,,-1.7502778,30.3327778
+rw,colline bugindi,Colline Bugindi,02,,-1.4833333,29.9333333
+rw,colline bugoya,Colline Bugoya,07,,-1.6833333,30.5
+rw,colline bugu,Colline Bugu,05,,-1.6333333,29.3
+rw,colline buguma,Colline Buguma,02,,-1.45,30.1833333
+rw,colline bugungu,Colline Bugungu,03,,-2.4333333,28.9833333
+rw,colline buhimba,Colline Buhimba,01,,-2.4333333,29.7666667
+rw,colline buhokoro,Colline Buhokoro,03,,-2.3333333,29.0166667
+rw,colline buhongo,Colline Buhongo,05,,-1.8833333,29.3
+rw,colline buhoro,Colline Buhoro,05,,-1.9,29.3
+rw,colline buhuga,Colline Buhuga,10,,-1.6166667,29.7333333
+rw,colline buhungwe,Colline Buhungwe,05,,-1.5833333,29.3833333
+rw,colline bukamba,Colline Bukamba,02,,-1.7166667,30.0
+rw,colline bukaragata,Colline Bukaragata,10,,-1.45,29.8833333
+rw,colline bukekele,Colline Bukekele,02,,-1.3333333,30.2833333
+rw,colline bukondjo,Colline Bukondjo,05,,-1.6,29.3166667
+rw,colline bulega,Colline Bulega,09,,-1.7333333,30.0333333
+rw,colline bulenga,Colline Bulenga,02,,-1.6833333,30.05
+rw,colline bulengera,Colline Bulengera,05,,-1.595,29.32
+rw,colline bulimba,Colline Bulimba,09,,-1.7333333,29.85
+rw,colline bumazi,Colline Bumazi,03,,-2.45,29.0
+rw,colline bunga,Colline Bunga,01,,-2.7,29.65
+rw,colline bunyereri,Colline Bunyereri,03,,-2.5833333,29.0333333
+rw,colline burama,Colline Burama,01,,-2.3166667,29.8166667
+rw,colline burega,Colline Burega,10,,-1.6666667,29.7
+rw,colline burere,Colline Burere,05,,-1.6333333,29.3166667
+rw,colline busekera,Colline Busekera,03,,-2.6,28.9166667
+rw,colline bushara,Colline Bushara,02,,-1.3333333,30.1666667
+rw,colline bushiga,Colline Bushiga,02,,-1.6666667,29.9333333
+rw,colline bushingamohetu,Colline Bushingamohetu,02,,-1.55,29.95
+rw,colline bushoka,Colline Bushoka,10,,-1.5833333,29.7333333
+rw,colline butale,Colline Butale,09,,-1.8666667,30.1
+rw,colline butambamo,Colline Butambamo,03,,-2.65,28.95
+rw,colline butambara,Colline Butambara,03,,-2.3333333,29.0872222
+rw,colline butambwe,Colline Butambwe,10,,-1.7,29.6666667
+rw,colline butandi,Colline Butandi,10,,-1.4833333,29.9
+rw,colline butaro,Colline Butaro,10,,-1.4,29.8333333
+rw,colline butete,Colline Butete,10,,-1.3791667,29.7358333
+rw,colline butezi,Colline Butezi,05,,-1.8833333,29.6166667
+rw,colline butozo,Colline Butozo,02,,-1.4666667,30.05
+rw,colline buvali,Colline Buvali,02,,-1.1666667,30.3166667
+rw,colline buvumu,Colline Buvumu,01,,-2.6833333,29.7333333
+rw,colline buyaga,Colline Buyaga,02,,-1.69,30.0136111
+rw,colline buyanga,Colline Buyanga,10,,-1.4166667,29.8166667
+rw,colline bweya,Colline Bweya,02,,-1.2666667,30.2666667
+rw,colline bwisha,Colline Bwisha,10,,-1.65,29.7333333
+rw,colline bwishya,Colline Bwishya,02,,-1.4166667,30.1166667
+rw,colline churusi,Colline Churusi,01,,-2.4666667,29.85
+rw,colline chyuna,Colline Chyuna,01,,-2.7,29.6
+rw,colline cyabingo,Colline Cyabingo,10,,-1.5786111,29.6888889
+rw,colline cyamuti,Colline Cyamuti,03,,-2.3166667,29.0166667
+rw,colline cyarwa,Colline Cyarwa,01,,-2.6280556,29.7519444
+rw,colline cyato,Colline Cyato,03,,-2.55,28.9333333
+rw,colline cyete,Colline Cyete,03,,-2.5333333,28.8833333
+rw,colline cyibumba,Colline Cyibumba,01,,-2.4,29.9666667
+rw,colline cyigaro,Colline Cyigaro,04,,-2.3833333,29.5
+rw,colline cyimbande,Colline Cyimbande,04,,-2.2833333,29.5333333
+rw,colline cyimpundu,Colline Cyimpundu,03,,-2.2833333,29.2166667
+rw,colline cyiya,Colline Cyiya,08,,-2.2677778,29.2652778
+rw,colline cyotomakara,Colline Cyotomakara,01,,-2.4,29.85
+rw,colline cyumba,Colline Cyumba,06,,-2.2833333,29.6833333
+rw,colline cyuve,Colline Cyuve,10,,-1.4833333,29.65
+rw,colline gabiro,Colline Gabiro,03,,-2.4166667,29.0333333
+rw,colline gafuba,Colline Gafuba,03,,-2.3666667,29.0166667
+rw,colline gafunza,Colline Gafunza,03,,-2.3927778,29.0044444
+rw,colline gahanga,Colline Gahanga,10,,-1.6494444,29.6355556
+rw,colline gahondo,Colline Gahondo,01,,-2.3666667,29.7666667
+rw,colline gakenke,Colline Gakenke,10,,-1.65,29.6833333
+rw,colline gako,Colline Gako,10,,-1.6833333,29.7833333
+rw,colline gakoma,Colline Gakoma,05,,-1.7,29.6333333
+rw,colline gakoni,Colline Gakoni,03,,-2.6166667,29.0166667
+rw,colline gakoro,Colline Gakoro,10,,-1.45,29.7
+rw,colline gangura,Colline Gangura,05,,-1.6333333,29.4
+rw,colline garama,Colline Garama,02,,-1.5447222,30.2422222
+rw,colline gasabo,Colline Gasabo,09,,-1.8,30.1333333
+rw,colline gasagara,Colline Gasagara,09,,-1.85,30.2
+rw,colline gasaka,Colline Gasaka,04,,-2.4833333,29.5166667
+rw,colline gasambu,Colline Gasambu,03,,-2.55,28.9
+rw,colline gasambya,Colline Gasambya,02,,-1.5,30.1
+rw,colline gasana,Colline Gasana,02,,-1.3166667,30.35
+rw,colline gasanze,Colline Gasanze,10,,-1.5,29.6666667
+rw,colline gasasa,Colline Gasasa,05,,-1.7166667,29.5666667
+rw,colline gashaki,Colline Gashaki,10,,-1.55,29.75
+rw,colline gashenye,Colline Gashenye,10,,-1.65,29.8333333
+rw,colline gasheshe,Colline Gasheshe,02,,-1.3333333,30.3833333
+rw,colline gashinia,Colline Gashinia,09,,-1.7166667,30.1833333
+rw,colline gashoba,Colline Gashoba,09,,-2.2075,30.2436111
+rw,colline gashonga,Colline Gashonga,03,,-2.6,28.95
+rw,colline gasura,Colline Gasura,09,,-1.85,30.1
+rw,colline gatatara,Colline Gatatara,05,,-1.65,29.45
+rw,colline gatete,Colline Gatete,01,,-2.75,29.7666667
+rw,colline gatete,Colline Gatete,09,,-1.6666667,29.8833333
+rw,colline gatete,Colline Gatete,10,,-1.4333333,29.65
+rw,colline gatonde,Colline Gatonde,01,,-2.3833333,29.85
+rw,colline gatovu,Colline Gatovu,10,,-1.6086111,29.5630556
+rw,colline gatsilima,Colline Gatsilima,02,,-1.4166667,30.1333333
+rw,colline gazinga,Colline Gazinga,02,,-1.2,30.3666667
+rw,colline gicuba,Colline Gicuba,10,,-1.5755556,29.8680556
+rw,colline gihango,Colline Gihango,03,,-2.5166667,28.9
+rw,colline gihe,Colline Gihe,05,,-1.85,29.6333333
+rw,colline giheke,Colline Giheke,03,,-2.4666667,28.9666667
+rw,colline giheta,Colline Giheta,10,,-1.4833333,29.7
+rw,colline gihinga,Colline Gihinga,03,,-2.45,29.0166667
+rw,colline gihinga,Colline Gihinga,05,,-1.75,29.3166667
+rw,colline gihora,Colline Gihora,10,,-1.4666667,29.6
+rw,colline gikondo,Colline Gikondo,09,,-1.9833333,30.0666667
+rw,colline gisa,Colline Gisa,05,,-1.6833333,29.2666667
+rw,colline gisagara,Colline Gisagara,03,,-2.6,28.9
+rw,colline gisanze,Colline Gisanze,01,,-2.6,29.8
+rw,colline gisanze,Colline Gisanze,10,,-1.7,29.6666667
+rw,colline gisayura,Colline Gisayura,01,,-2.4166667,29.9
+rw,colline giseke,Colline Giseke,04,,-2.6,29.5166667
+rw,colline gishike,Colline Gishike,01,,-2.3833333,29.75
+rw,colline gishute,Colline Gishute,09,,-1.9,30.2
+rw,colline gisodzi,Colline Gisodzi,09,,-1.7833333,29.8833333
+rw,colline gisongwe,Colline Gisongwe,03,,-2.6833333,28.9833333
+rw,colline gisozi,Colline Gisozi,10,,-1.6333333,29.8
+rw,colline gitaba,Colline Gitaba,02,,-1.6980556,29.9283333
+rw,colline gitambi,Colline Gitambi,03,,-2.5833333,28.9833333
+rw,colline gitambi,Colline Gitambi,09,,-1.7833333,30.1166667
+rw,colline gitandi,Colline Gitandi,02,,-1.6,29.9333333
+rw,colline gitare,Colline Gitare,02,,-1.5947222,29.9422222
+rw,colline gitare,Colline Gitare,10,,-1.4,29.75
+rw,colline gitega,Colline Gitega,05,,-1.8,29.5833333
+rw,colline gitenga,Colline Gitenga,02,,-1.4,30.1333333
+rw,colline gitenge,Colline Gitenge,10,,-1.6666667,29.8
+rw,colline gitongati,Colline Gitongati,06,,-2.0666667,29.7333333
+rw,colline gitongo,Colline Gitongo,03,,-2.3166667,29.15
+rw,colline gitovu,Colline Gitovu,01,,-2.4,29.8
+rw,colline gitovu,Colline Gitovu,02,,-1.5833333,29.9166667
+rw,colline gitovu,Colline Gitovu,09,,-1.75,29.8833333
+rw,colline gitovu,Colline Gitovu,10,,-1.6166667,29.7833333
+rw,colline gitshatsha,Colline Gitshatsha,09,,-1.8966667,30.2386111
+rw,colline gitsimba,Colline Gitsimba,09,,-1.6833333,30.3833333
+rw,colline gitsuba,Colline Gitsuba,09,,-1.8666667,29.9333333
+rw,colline gituza,Colline Gituza,02,,-1.6013889,30.2844444
+rw,colline gitwa,Colline Gitwa,05,,-1.7833333,29.3166667
+rw,colline gitwe,Colline Gitwe,10,,-1.5166667,29.8
+rw,colline gombaniro,Colline Gombaniro,03,,-2.7166667,29.0333333
+rw,colline gorora,Colline Gorora,02,,-1.75,30.3833333
+rw,colline gosenyi,Colline Gosenyi,05,,-1.7027778,29.2563889
+rw,colline guhengeri,Colline Guhengeri,05,,-1.7333333,29.5333333
+rw,colline hakasiru,Colline Hakasiru,10,,-1.4833333,29.9
+rw,colline ibanda,Colline Ibanda,03,,-2.4333333,29.1833333
+rw,colline isenga,Colline Isenga,09,,-2.4166667,30.1166667
+rw,colline ityazo,Colline Ityazo,03,,-2.3333333,29.1166667
+rw,colline janjagiro,Colline Janjagiro,09,,-1.8666667,30.3
+rw,colline jenda,Colline Jenda,06,,-2.1666667,29.95
+rw,colline jomba,Colline Jomba,10,,-1.5833333,29.7166667
+rw,colline kabale,Colline Kabale,02,,-1.5833333,30.3166667
+rw,colline kabalele,Colline Kabalele,02,,-1.6166667,30.35
+rw,colline kabanda,Colline Kabanda,06,,-2.0666667,29.7
+rw,colline kabilizi,Colline Kabilizi,02,,-1.3833333,30.3166667
+rw,colline kabingo,Colline Kabingo,10,,-1.7,29.65
+rw,colline kabira,Colline Kabira,02,,-1.4833333,30.3166667
+rw,colline kabirizi,Colline Kabirizi,05,,-1.7,29.2833333
+rw,colline kabongoya,Colline Kabongoya,02,,-1.5,30.1333333
+rw,colline kaboza,Colline Kaboza,03,,-2.5666667,28.9666667
+rw,colline kabuga,Colline Kabuga,06,,-2.2,29.6666667
+rw,colline kabuga,Colline Kabuga,09,,-1.9666667,30.2166667
+rw,colline kabutembo,Colline Kabutembo,03,,-2.4166667,28.9166667
+rw,colline kabyaza,Colline Kabyaza,10,,-1.4166667,29.85
+rw,colline kadjumo,Colline Kadjumo,02,,-1.4,30.35
+rw,colline kagabo,Colline Kagabo,02,,-1.3833333,30.35
+rw,colline kagasa,Colline Kagasa,09,,-2.2666667,30.2
+rw,colline kagunga,Colline Kagunga,01,,-2.4333333,29.8666667
+rw,colline kagunga,Colline Kagunga,03,,-2.2833333,29.2333333
+rw,colline kakole,Colline Kakole,02,,-1.0666667,30.4166667
+rw,colline kakute,Colline Kakute,02,,-1.4666667,30.2833333
+rw,colline kalembule,Colline Kalembule,09,,-2.0166667,30.0833333
+rw,colline kalengera,Colline Kalengera,03,,-2.5230556,29.0358333
+rw,colline kamabara,Colline Kamabara,02,,-1.6166667,30.2333333
+rw,colline kambogo,Colline Kambogo,03,,-2.6333333,29.0166667
+rw,colline kamushuri,Colline Kamushuri,02,,-1.4333333,30.05
+rw,colline kanama,Colline Kanama,05,,-1.6997222,29.3463889
+rw,colline kangoma,Colline Kangoma,02,,-1.2833333,30.25
+rw,colline kangwandi,Colline Kangwandi,05,,-1.7333333,29.3166667
+rw,colline kanogo,Colline Kanogo,05,,-1.9,29.6166667
+rw,colline kanombe,Colline Kanombe,09,,-1.9747222,30.1613889
+rw,colline kanyoni,Colline Kanyoni,09,,-1.7833333,30.0333333
+rw,colline kanzanza,Colline Kanzanza,05,,-1.6333333,29.3833333
+rw,colline kanzenze,Colline Kanzenze,09,,-2.1511111,30.0952778
+rw,colline karagari,Colline Karagari,02,,-1.7961111,30.1919444
+rw,colline karama,Colline Karama,01,,-2.6130556,29.6377778
+rw,colline karama,Colline Karama,02,,-1.6666667,29.9166667
+rw,colline karama,Colline Karama,04,,-2.4325,29.6044444
+rw,colline karambo,Colline Karambo,09,,-1.7666667,30.0333333
+rw,colline karambo,Colline Karambo,10,,-1.6333333,29.8333333
+rw,colline karandarye,Colline Karandarye,05,,-1.65,29.5
+rw,colline karizinge,Colline Karizinge,09,,-2.2333333,30.25
+rw,colline karotshyo,Colline Karotshyo,09,,-2.35,30.25
+rw,colline kataretare,Colline Kataretare,05,,-1.8333333,29.3666667
+rw,colline katshuriro,Colline Katshuriro,09,,-1.9333333,30.0833333
+rw,colline kavumu,Colline Kavumu,06,,-2.2166667,29.6166667
+rw,colline kayanga,Colline Kayanga,09,,-1.8333333,30.1833333
+rw,colline kayenzi,Colline Kayenzi,09,,-2.1333333,30.0666667
+rw,colline kayovu,Colline Kayovu,09,,-2.2666667,30.2666667
+rw,colline kazo,Colline Kazo,07,,-2.2,30.5
+rw,colline kendale,Colline Kendale,02,,-1.1833333,30.4
+rw,colline kibadirwa,Colline Kibadirwa,04,,-2.3666667,29.45
+rw,colline kibagabaga,Colline Kibagabaga,09,,-1.9333333,30.1166667
+rw,colline kibali,Colline Kibali,02,,-1.5819444,30.0466667
+rw,colline kibangu,Colline Kibangu,01,,-2.7141667,29.65
+rw,colline kibanza,Colline Kibanza,06,,-1.9666667,29.8833333
+rw,colline kibari,Colline Kibari,03,,-2.6333333,29.0
+rw,colline kibazi,Colline Kibazi,03,,-2.4833333,29.0666667
+rw,colline kibinja,Colline Kibinja,01,,-2.3666667,29.7833333
+rw,colline kiboga,Colline Kiboga,02,,-1.3833333,30.3
+rw,colline kibungu,Colline Kibungu,09,,-2.1,30.0333333
+rw,colline kidaho,Colline Kidaho,10,,-1.37,29.7425
+rw,colline kigali,Colline Kigali,01,,-2.3,29.95
+rw,colline kiganda,Colline Kiganda,10,,-1.5694444,29.6755556
+rw,colline kigarama,Colline Kigarama,04,,-2.2833333,29.5666667
+rw,colline kigarama,Colline Kigarama,09,,-1.95,30.15
+rw,colline kigasa,Colline Kigasa,10,,-1.5333333,29.5666667
+rw,colline kigembe,Colline Kigembe,01,,-2.735,29.695
+rw,colline kigeyo,Colline Kigeyo,05,,-1.8166667,29.3
+rw,colline kikunyu,Colline Kikunyu,02,,-1.1,30.3666667
+rw,colline kilambi,Colline Kilambi,02,,-1.5666667,30.15
+rw,colline kilarambogo,Colline Kilarambogo,01,,-2.6166667,29.9
+rw,colline kimbwebwe,Colline Kimbwebwe,02,,-1.1,30.4
+rw,colline kimironko,Colline Kimironko,09,,-1.75,30.3333333
+rw,colline kimiryi,Colline Kimiryi,02,,-1.6333333,29.9833333
+rw,colline kinanira,Colline Kinanira,05,,-1.7666667,29.55
+rw,colline kindonye,Colline Kindonye,09,,-2.2,30.1166667
+rw,colline kinigi,Colline Kinigi,05,,-1.7166667,29.3
+rw,colline kinigi,Colline Kinigi,10,,-1.45,29.5666667
+rw,colline kinihira,Colline Kinihira,05,,-1.6666667,29.5
+rw,colline kinihira,Colline Kinihira,10,,-1.55,29.7833333
+rw,colline kinogo,Colline Kinogo,05,,-1.5666667,29.35
+rw,colline kintarure,Colline Kintarure,05,,-1.7166667,29.6166667
+rw,colline kinyababa,Colline Kinyababa,10,,-1.3833333,29.8
+rw,colline kinyambo,Colline Kinyambo,02,,-1.4333333,30.2
+rw,colline kinyanja,Colline Kinyanja,06,,-2.2333333,29.6166667
+rw,colline kinyantozi,Colline Kinyantozi,05,,-1.8333333,29.3833333
+rw,colline kinyoma,Colline Kinyoma,10,,-1.65,29.8166667
+rw,colline kinyoni,Colline Kinyoni,01,,-2.3166667,29.8333333
+rw,colline kinzuzi,Colline Kinzuzi,09,,-1.75,30.0166667
+rw,colline kiraga,Colline Kiraga,05,,-1.7333333,29.3
+rw,colline kirambo,Colline Kirambo,03,,-2.3116667,29.1363889
+rw,colline kirambo,Colline Kirambo,09,,-1.7,29.8833333
+rw,colline kiranga,Colline Kiranga,03,,-2.6333333,28.9166667
+rw,colline kiraro,Colline Kiraro,10,,-1.7166667,29.6333333
+rw,colline kirengo,Colline Kirengo,05,,-1.95,29.6
+rw,colline kiryi,Colline Kiryi,10,,-1.5333333,29.65
+rw,colline kisigiro,Colline Kisigiro,09,,-1.75,30.0333333
+rw,colline kisunzu,Colline Kisunzu,03,,-2.5333333,28.9333333
+rw,colline kiterwe,Colline Kiterwe,02,,-1.6333333,30.25
+rw,colline kivuba,Colline Kivuba,09,,-1.7,30.3
+rw,colline kivu,Colline Kivu,04,,-2.6166667,29.4666667
+rw,colline kivumu,Colline Kivumu,10,,-1.6,29.8666667
+rw,colline kiyanza,Colline Kiyanza,09,,-1.75,30.0666667
+rw,colline kiyonza,Colline Kiyonza,01,,-2.7333333,29.7
+rw,colline kiziguru,Colline Kiziguru,05,,-1.8,29.65
+rw,colline kizirakome,Colline Kizirakome,02,,-1.4333333,30.4
+rw,colline kukabira,Colline Kukabira,09,,-1.7333333,30.1833333
+rw,colline kukana,Colline Kukana,09,,-2.4,30.1333333
+rw,colline kulisha,Colline Kulisha,09,,-1.8333333,30.0833333
+rw,colline kumutaka,Colline Kumutaka,08,,-1.8833333,29.4666667
+rw,colline kununya,Colline Kununya,05,,-1.75,29.4333333
+rw,colline kuwingugu,Colline Kuwingugu,01,,-2.6,29.4333333
+rw,colline kuwinkingi,Colline Kuwinkingi,04,,-2.4666667,29.4666667
+rw,colline kyiombe,Colline Kyiombe,02,,-1.4444444,30.0886111
+rw,colline kyiri,Colline Kyiri,02,,-1.6833333,29.9
+rw,colline linganwe,Colline Linganwe,01,,-2.6833333,29.7833333
+rw,colline lubirizi,Colline Lubirizi,02,,-1.2644444,30.23
+rw,colline luhigiro,Colline Luhigiro,05,,-1.6166667,29.4
+rw,colline luhunga,Colline Luhunga,05,,-1.8666667,29.6333333
+rw,colline lutendele,Colline Lutendele,02,,-1.5833333,30.35
+rw,colline mabare,Colline Mabare,02,,-1.45,30.1
+rw,colline mabuye,Colline Mabuye,09,,-2.3833333,30.15
+rw,colline macuba,Colline Macuba,03,,-2.3,29.2
+rw,colline magi,Colline Magi,01,,-2.7333333,29.8333333
+rw,colline magina,Colline Magina,09,,-2.2666667,30.2166667
+rw,colline mahoko,Colline Mahoko,05,,-1.7,29.3333333
+rw,colline mahumbe,Colline Mahumbe,05,,-1.8833333,29.5166667
+rw,colline maliba,Colline Maliba,01,,-2.6666667,29.6333333
+rw,colline mamfu,Colline Mamfu,09,,-1.7333333,30.3
+rw,colline marabuy,Colline Marabuy,05,,-1.8833333,29.35
+rw,colline mararo,Colline Mararo,10,,-1.55,29.55
+rw,colline mareba,Colline Mareba,06,,-2.2666667,29.85
+rw,colline masha,Colline Masha,05,,-1.5833333,29.3333333
+rw,colline maso,Colline Maso,04,,-2.2833333,29.5166667
+rw,colline masoro,Colline Masoro,09,,-1.8333333,30.05
+rw,colline matara,Colline Matara,01,,-2.3333333,29.9166667
+rw,colline maya,Colline Maya,10,,-1.4333333,29.6833333
+rw,colline mayange,Colline Mayange,09,,-2.2113889,30.1172222
+rw,colline mayobe,Colline Mayobe,06,,-2.2166667,29.5666667
+rw,colline mbazi,Colline Mbazi,01,,-2.5258333,29.7316667
+rw,colline mbuye,Colline Mbuye,05,,-1.85,29.65
+rw,colline mbuye,Colline Mbuye,06,,-2.2333333,29.65
+rw,colline mibuba,Colline Mibuba,09,,-2.3666667,30.15
+rw,colline mikingo,Colline Mikingo,05,,-1.9,29.6
+rw,colline mitshiniro,Colline Mitshiniro,05,,-1.6,29.3833333
+rw,colline mizingo,Colline Mizingo,05,,-1.6333333,29.4333333
+rw,colline mpage,Colline Mpage,03,,-2.3833333,29.15
+rw,colline mpanga,Colline Mpanga,06,,-2.3,29.7333333
+rw,colline mpanga,Colline Mpanga,09,,-2.0,30.0333333
+rw,colline mpare,Colline Mpare,06,,-2.1166667,29.6833333
+rw,colline mpira,Colline Mpira,09,,-2.2666667,30.1833333
+rw,colline mubori,Colline Mubori,03,,-2.5166667,29.0166667
+rw,colline mubumbano,Colline Mubumbano,01,,-2.6666667,29.7333333
+rw,colline mubumbano,Colline Mubumbano,03,,-2.35,29.1
+rw,colline mudende,Colline Mudende,05,,-1.6166667,29.3833333
+rw,colline mufumba,Colline Mufumba,05,,-1.6166667,29.3166667
+rw,colline mugakindu,Colline Mugakindu,02,,-1.1833333,30.3
+rw,colline mugamba,Colline Mugamba,10,,-1.5833333,29.7833333
+rw,colline mugano,Colline Mugano,05,,-1.8333333,29.6166667
+rw,colline mugejuru,Colline Mugejuru,04,,-2.3666667,29.4666667
+rw,colline mugera,Colline Mugera,02,,-1.6166667,30.2666667
+rw,colline mugomba,Colline Mugomba,03,,-2.3333333,29.2666667
+rw,colline mugunga,Colline Mugunga,06,,-1.8166667,29.75
+rw,colline muhanda,Colline Muhanda,05,,-1.8,29.5166667
+rw,colline muhari,Colline Muhari,03,,-2.4666667,28.9
+rw,colline muhehwe,Colline Muhehwe,03,,-2.6333333,28.9666667
+rw,colline muhero,Colline Muhero,01,,-2.4,29.9333333
+rw,colline muhingu,Colline Muhingu,02,,-1.5166667,30.2833333
+rw,colline muhororo,Colline Muhororo,10,,-1.5166667,29.7166667
+rw,colline muhoza,Colline Muhoza,06,,-2.25,29.65
+rw,colline muhura,Colline Muhura,02,,-1.7344444,30.2708333
+rw,colline mukalange,Colline Mukalange,02,,-1.5280556,30.0786111
+rw,colline muko,Colline Muko,02,,-1.6833333,29.9
+rw,colline muko,Colline Muko,03,,-2.4333333,29.05
+rw,colline mukoma,Colline Mukoma,03,,-2.35,29.0166667
+rw,colline mukoni,Colline Mukoni,04,,-2.5166667,29.5666667
+rw,colline mukuyu,Colline Mukuyu,09,,-1.8833333,30.1833333
+rw,colline mulemule,Colline Mulemule,05,,-1.7166667,29.5333333
+rw,colline mulinja,Colline Mulinja,09,,-2.05,30.1166667
+rw,colline mumatyazo,Colline Mumatyazo,02,,-1.6833333,30.15
+rw,colline munini,Colline Munini,02,,-1.5333333,30.0666667
+rw,colline munini,Colline Munini,04,,-2.7,29.5166667
+rw,colline munsheke,Colline Munsheke,02,,-1.2833333,30.3666667
+rw,colline munyinya,Colline Munyinya,03,,-2.5666667,28.95
+rw,colline munyove,Colline Munyove,03,,-2.4666667,28.9333333
+rw,colline murama,Colline Murama,01,,-2.7166667,29.7
+rw,colline muramba,Colline Muramba,03,,-2.2833333,29.1666667
+rw,colline muramba,Colline Muramba,05,,-1.8666667,29.5333333
+rw,colline muramba,Colline Muramba,10,,-1.6,29.6833333
+rw,colline murambi,Colline Murambi,02,,-1.55,30.2333333
+rw,colline murambi,Colline Murambi,05,,-1.7333333,29.55
+rw,colline murambi,Colline Murambi,09,,-1.9833333,30.0833333
+rw,colline murambi,Colline Murambi,10,,-1.6333333,29.8333333
+rw,colline murandi,Colline Murandi,10,,-1.55,29.7333333
+rw,colline murangi,Colline Murangi,03,,-2.5,28.9166667
+rw,colline murara,Colline Murara,09,,-2.35,30.1666667
+rw,colline muraza,Colline Muraza,03,,-2.3,29.15
+rw,colline murehe,Colline Murehe,03,,-2.5666667,28.9166667
+rw,colline murito,Colline Murito,03,,-2.3833333,28.9833333
+rw,colline murore,Colline Murore,02,,-1.5,30.0166667
+rw,colline murunda,Colline Murunda,05,,-1.9,29.3666667
+rw,colline mururu,Colline Mururu,03,,-2.5166667,28.8666667
+rw,colline muryorera,Colline Muryorera,02,,-1.5,29.9666667
+rw,colline musagara,Colline Musagara,05,,-1.8333333,29.6166667
+rw,colline musama,Colline Musama,10,,-1.3833333,29.85
+rw,colline musange,Colline Musange,04,,-2.2658333,29.5552778
+rw,colline musebeya,Colline Musebeya,10,,-1.5833333,29.6833333
+rw,colline muse,Colline Muse,04,,-2.5,29.5166667
+rw,colline musenyi,Colline Musenyi,02,,-1.7030556,30.1094444
+rw,colline musheri,Colline Musheri,02,,-1.1333333,30.3833333
+rw,colline mushirarungu,Colline Mushirarungu,01,,-2.35,29.7166667
+rw,colline mushongi,Colline Mushongi,02,,-1.65,29.9
+rw,colline musoro,Colline Musoro,03,,-2.45,28.9666667
+rw,colline musumba,Colline Musumba,06,,-2.1166667,29.8166667
+rw,colline musumule,Colline Musumule,09,,-2.25,30.1833333
+rw,colline mutambiko,Colline Mutambiko,09,,-1.75,30.1833333
+rw,colline mutamo,Colline Mutamo,05,,-1.6666667,29.4833333
+rw,colline mutara,Colline Mutara,02,,-1.6333333,29.95
+rw,colline mutego,Colline Mutego,10,,-1.7333333,29.65
+rw,colline mutende,Colline Mutende,01,,-2.3166667,29.8
+rw,colline muti,Colline Muti,02,,-1.6166667,30.2
+rw,colline muti,Colline Muti,05,,-1.6208333,29.3044444
+rw,colline mutima,Colline Mutima,01,,-2.3833333,29.8833333
+rw,colline mutimasi,Colline Mutimasi,03,,-2.5397222,28.9402778
+rw,colline mutongo,Colline Mutongo,03,,-2.2833333,29.2
+rw,colline mutusa,Colline Mutusa,03,,-2.3833333,29.0833333
+rw,colline muvumu,Colline Muvumu,09,,-1.85,29.9166667
+rw,colline muyage,Colline Muyage,04,,-2.4333333,29.6833333
+rw,colline muyira,Colline Muyira,01,,-2.3447222,29.8777778
+rw,colline muzenga,Colline Muzenga,01,,-2.6333333,29.7666667
+rw,colline mwanabili,Colline Mwanabili,06,,-2.2666667,29.7666667
+rw,colline mwegera,Colline Mwegera,03,,-2.6,29.0666667
+rw,colline mwendo,Colline Mwendo,09,,-1.7166667,30.2
+rw,colline mwendo,Colline Mwendo,10,,-1.6333333,29.7166667
+rw,colline mwenya,Colline Mwenya,02,,-1.6333333,30.2166667
+rw,colline mwijanda,Colline Mwijanda,01,,-2.4833333,29.6666667
+rw,colline mwishe,Colline Mwishe,09,,-1.8,30.0
+rw,colline mwite,Colline Mwite,09,,-1.7333333,30.0
+rw,colline mwiviro,Colline Mwiviro,09,,-1.7333333,30.2666667
+rw,colline mwufe,Colline Mwufe,05,,-1.7794444,29.3083333
+rw,colline mwumba,Colline Mwumba,06,,-2.25,29.5833333
+rw,colline myariro,Colline Myariro,09,,-2.3,30.1666667
+rw,colline ndaganzwa,Colline Ndaganzwa,05,,-1.9166667,29.6166667
+rw,colline ndago,Colline Ndago,01,,-2.4166667,29.8833333
+rw,colline ndera,Colline Ndera,09,,-1.9666667,30.1666667
+rw,colline nemba,Colline Nemba,10,,-1.55,29.85
+rw,colline nengo,Colline Nengo,05,,-1.7,29.2666667
+rw,colline ngange,Colline Ngange,09,,-1.7166667,30.2333333
+rw,colline nganzo,Colline Nganzo,05,,-1.8,29.65
+rw,colline nganzo,Colline Nganzo,10,,-1.65,29.75
+rw,colline ngeruka,Colline Ngeruka,09,,-2.3,30.15
+rw,colline ngiryi,Colline Ngiryi,09,,-1.85,30.0833333
+rw,colline ngoma,Colline Ngoma,01,,-2.5852778,29.7416667
+rw,colline ngoma,Colline Ngoma,05,,-1.9,29.35
+rw,colline ngoma,Colline Ngoma,10,,-1.55,29.8
+rw,colline ngurugunzu,Colline Ngurugunzu,05,,-1.95,29.6
+rw,colline nkanda,Colline Nkanda,01,,-2.7833333,29.4833333
+rw,colline nkanka,Colline Nkanka,03,,-2.4166667,28.9333333
+rw,colline nkunzuzu,Colline Nkunzuzu,09,,-1.8666667,30.1666667
+rw,colline nkurubuye,Colline Nkurubuye,03,,-2.5166667,28.9666667
+rw,colline nomba,Colline Nomba,06,,-2.3,29.8166667
+rw,colline ntarabana,Colline Ntarabana,09,,-1.7833333,29.9166667
+rw,colline ntebe,Colline Ntebe,09,,-2.0833333,30.3
+rw,colline ntobwe,Colline Ntobwe,05,,-1.9666667,29.6333333
+rw,colline ntonde,Colline Ntonde,09,,-1.7666667,29.9333333
+rw,colline nulambi,Colline Nulambi,05,,-1.9,29.3333333
+rw,colline nyabichwamba,Colline Nyabichwamba,02,,-1.6,30.25
+rw,colline nyabihu,Colline Nyabihu,05,,-1.7833333,29.5833333
+rw,colline nyabishambi,Colline Nyabishambi,02,,-1.55,30.0666667
+rw,colline nyabisindu,Colline Nyabisindu,01,,-2.35,29.6666667
+rw,colline nyabiteke,Colline Nyabiteke,03,,-2.3333333,29.0333333
+rw,colline nyabugando,Colline Nyabugando,02,,-1.5333333,30.4166667
+rw,colline nyagahinika,Colline Nyagahinika,05,,-1.8,29.3333333
+rw,colline nyagahita,Colline Nyagahita,02,,-1.5,30.2
+rw,colline nyagasozi,Colline Nyagasozi,10,,-1.35,29.75
+rw,colline nyagisozi,Colline Nyagisozi,01,,-2.7666667,29.6166667
+rw,colline nyagitabire,Colline Nyagitabire,02,,-1.65,30.1833333
+rw,colline nyakabanda,Colline Nyakabanda,01,,-2.7666667,29.6833333
+rw,colline nyakabongo,Colline Nyakabongo,09,,-1.8,30.25
+rw,colline nyakabu,Colline Nyakabu,06,,-2.2666667,29.7
+rw,colline nyakabumgo,Colline Nyakabumgo,06,,-2.2166667,29.8666667
+rw,colline nyakabungo,Colline Nyakabungo,02,,-1.6333333,30.15
+rw,colline nyakabuye,Colline Nyakabuye,03,,-2.5694444,29.0280556
+rw,colline nyakanyinya,Colline Nyakanyinya,03,,-2.5166667,28.9333333
+rw,colline nyakayogera,Colline Nyakayogera,10,,-1.5833333,29.8666667
+rw,colline nyakibanda,Colline Nyakibanda,01,,-2.6333333,29.6833333
+rw,colline nyakingandu,Colline Nyakingandu,02,,-1.4333333,30.3333333
+rw,colline nyamagana,Colline Nyamagana,03,,-2.5463889,28.8991667
+rw,colline nyamikama,Colline Nyamikama,02,,-1.5166667,30.25
+rw,colline nyamikamba,Colline Nyamikamba,02,,-1.4,30.2166667
+rw,colline nyamirembe,Colline Nyamirembe,02,,-1.65,30.35
+rw,colline nyamugari,Colline Nyamugari,03,,-2.4,29.0
+rw,colline nyamweru,Colline Nyamweru,09,,-1.95,30.0166667
+rw,colline nyamyumba,Colline Nyamyumba,05,,-1.7397222,29.2933333
+rw,colline nyanda,Colline Nyanda,02,,-1.6,30.05
+rw,colline nyankenke,Colline Nyankenke,02,,-1.6,30.0166667
+rw,colline nyantomvu,Colline Nyantomvu,03,,-2.55,29.05
+rw,colline nyanza,Colline Nyanza,01,,-2.5833333,29.7166667
+rw,colline nyanza,Colline Nyanza,09,,-1.7833333,30.15
+rw,colline nyarubanga,Colline Nyarubanga,02,,-1.5166667,30.25
+rw,colline nyarubungu,Colline Nyarubungu,02,,-1.5666667,30.25
+rw,colline nyarugenge,Colline Nyarugenge,09,,-1.9402778,30.0652778
+rw,colline nyarugina,Colline Nyarugina,10,,-1.45,29.55
+rw,colline nyarugumba,Colline Nyarugumba,02,,-1.5286111,30.4130556
+rw,colline nyaruhengeri,Colline Nyaruhengeri,01,,-2.6827778,29.7741667
+rw,colline nyarungu,Colline Nyarungu,10,,-1.4833333,29.8166667
+rw,colline nyarurama,Colline Nyarurama,06,,-2.3166667,29.65
+rw,colline nyarurama,Colline Nyarurama,09,,-2.4333333,30.1666667
+rw,colline nyarusange,Colline Nyarusange,01,,-2.35,29.6666667
+rw,colline nyarushishi,Colline Nyarushishi,03,,-2.5,28.95
+rw,colline nyarutembe,Colline Nyarutembe,10,,-1.6,29.6166667
+rw,colline nyaruteme,Colline Nyaruteme,05,,-1.6166667,29.3666667
+rw,colline nyarutsi,Colline Nyarutsi,04,,-2.2833333,29.5833333
+rw,colline nyenje,Colline Nyenje,03,,-2.65,28.9
+rw,colline nyondo,Colline Nyondo,05,,-1.7166667,29.3166667
+rw,colline nyonilima,Colline Nyonilima,10,,-1.6166667,29.6666667
+rw,colline nyunzwe,Colline Nyunzwe,06,,-2.15,29.65
+rw,colline nzahaha,Colline Nzahaha,03,,-2.6666667,28.9666667
+rw,colline nzangwa,Colline Nzangwa,09,,-2.3666667,30.25
+rw,colline rango,Colline Rango,03,,-2.5833333,28.9166667
+rw,colline rekisugi,Colline Rekisugi,02,,-1.3,30.2333333
+rw,colline remera,Colline Remera,03,,-2.3666667,29.1333333
+rw,colline remera,Colline Remera,09,,-1.8,29.9833333
+rw,colline rimwe,Colline Rimwe,09,,-1.8833333,29.95
+rw,colline rongi,Colline Rongi,05,,-1.9,29.65
+rw,colline rubaka,Colline Rubaka,10,,-1.5666667,29.5333333
+rw,colline rubaya,Colline Rubaya,05,,-1.6825,29.2969444
+rw,colline rubeja,Colline Rubeja,10,,-1.7,29.6833333
+rw,colline rubona,Colline Rubona,01,,-2.3166667,29.9333333
+rw,colline rubona,Colline Rubona,03,,-2.3166667,29.25
+rw,colline rubona,Colline Rubona,05,,-1.9666667,29.6333333
+rw,colline rubona,Colline Rubona,09,,-1.7833333,29.8666667
+rw,colline rubona,Colline Rubona,10,,-1.5333333,29.8666667
+rw,colline rubungo,Colline Rubungo,09,,-1.9458333,30.1261111
+rw,colline rubungu,Colline Rubungu,02,,-1.4833333,30.35
+rw,colline rudaga,Colline Rudaga,03,,-2.3333333,29.25
+rw,colline rugamba,Colline Rugamba,05,,-1.8666667,29.3
+rw,colline ruganda,Colline Ruganda,03,,-2.5038889,28.9166667
+rw,colline rugaragara,Colline Rugaragara,03,,-2.4,28.9333333
+rw,colline rugaragara,Colline Rugaragara,09,,-1.7,30.2166667
+rw,colline rugarama,Colline Rugarama,10,,-1.4,29.7333333
+rw,colline rugari,Colline Rugari,10,,-1.5166667,29.85
+rw,colline rugendabari,Colline Rugendabari,10,,-1.6333333,29.5833333
+rw,colline rugenge,Colline Rugenge,09,,-2.2833333,30.2166667
+rw,colline rugera,Colline Rugera,10,,-1.6333333,29.6166667
+rw,colline rugerero,Colline Rugerero,05,,-1.7166667,29.3
+rw,colline rugobagoba,Colline Rugobagoba,06,,-2.0166667,29.8833333
+rw,colline rugobasoba,Colline Rugobasoba,06,,-2.0166667,29.8833333
+rw,colline rugogwe,Colline Rugogwe,02,,-1.6666667,30.3
+rw,colline rugoti,Colline Rugoti,05,,-1.9166667,29.3666667
+rw,colline ruhanga,Colline Ruhanga,09,,-1.9333333,30.25
+rw,colline ruhanga,Colline Ruhanga,10,,-1.4833333,29.8333333
+rw,colline ruhanya,Colline Ruhanya,09,,-1.7333333,29.9333333
+rw,colline ruhara,Colline Ruhara,05,,-1.6,29.3
+rw,colline ruhengeri,Colline Ruhengeri,10,,-1.4833333,29.6166667
+rw,colline ruhinga,Colline Ruhinga,10,,-1.6166667,29.75
+rw,colline ruhoko,Colline Ruhoko,03,,-2.6666667,28.95
+rw,colline ruhurura,Colline Ruhurura,10,,-1.4666667,29.85
+rw,colline ruinihingo,Colline Ruinihingo,02,,-1.4,30.25
+rw,colline rukira,Colline Rukira,01,,-2.5833333,29.7
+rw,colline rukoko,Colline Rukoko,05,,-1.65,29.2666667
+rw,colline rukoma,Colline Rukoma,10,,-1.6166667,29.5166667
+rw,colline rukona,Colline Rukona,10,,-1.45,29.65
+rw,colline rukondo,Colline Rukondo,04,,-2.3886111,29.6091667
+rw,colline rukoro,Colline Rukoro,10,,-1.45,29.65
+rw,colline rukura,Colline Rukura,09,,-1.6833333,29.8333333
+rw,colline runyanga,Colline Runyanga,06,,-2.3166667,29.7
+rw,colline runyinya,Colline Runyinya,09,,-1.8833333,30.3333333
+rw,colline runyinya,Colline Runyinya,10,,-1.7333333,29.6833333
+rw,colline rurama,Colline Rurama,03,,-2.5133333,29.0166667
+rw,colline rusasa,Colline Rusasa,10,,-1.6333333,29.6666667
+rw,colline rusayo,Colline Rusayo,10,,-1.5666667,29.7333333
+rw,colline rusebeya,Colline Rusebeya,10,,-1.6333333,29.6833333
+rw,colline rusekera,Colline Rusekera,02,,-1.5666667,29.95
+rw,colline rusekera,Colline Rusekera,05,,-1.7166667,29.3833333
+rw,colline rushari,Colline Rushari,10,,-1.5666667,29.85
+rw,colline rushashi,Colline Rushashi,09,,-1.7330556,29.8591667
+rw,colline rushebeya,Colline Rushebeya,02,,-1.4666667,30.1166667
+rw,colline rusiga,Colline Rusiga,09,,-1.8166667,29.9166667
+rw,colline rusingi,Colline Rusingi,05,,-1.8,29.5666667
+rw,colline rusoro,Colline Rusoro,10,,-1.7166667,29.6666667
+rw,colline rususa,Colline Rususa,05,,-1.85,29.6333333
+rw,colline rutamba,Colline Rutamba,10,,-1.4166667,29.7166667
+rw,colline rutare,Colline Rutare,02,,-1.2833333,30.3
+rw,colline rutarure,Colline Rutarure,05,,-1.7666667,29.5833333
+rw,colline rutonde,Colline Rutonde,09,,-1.9,29.9666667
+rw,colline rutondwe,Colline Rutondwe,09,,-1.8666667,29.95
+rw,colline ruyange,Colline Ruyange,10,,-1.5,29.8166667
+rw,colline ruyaraka,Colline Ruyaraka,02,,-1.35,30.3833333
+rw,colline ruyenzi,Colline Ruyenzi,01,,-2.4333333,29.8333333
+rw,colline ruyonga,Colline Ruyonga,03,,-2.5666667,28.9333333
+rw,colline rwabicuma,Colline Rwabicuma,01,,-2.35,29.7
+rw,colline rwabidege,Colline Rwabidege,03,,-2.4833333,29.05
+rw,colline rwahi,Colline Rwahi,03,,-2.4333333,28.9333333
+rw,colline rwakirari,Colline Rwakirari,10,,-1.65,29.75
+rw,colline rwamiko,Colline Rwamiko,03,,-2.4897222,28.9508333
+rw,colline rwamiko,Colline Rwamiko,09,,-1.7666667,30.2
+rw,colline rwangara,Colline Rwangara,05,,-1.6333333,29.3166667
+rw,colline rwani,Colline Rwani,09,,-1.85,29.9333333
+rw,colline rwankeri,Colline Rwankeri,10,,-1.6,29.5333333
+rw,colline rwankomo,Colline Rwankomo,05,,-1.7,29.35
+rw,colline rwankuba,Colline Rwankuba,05,,-1.6166667,29.3666667
+rw,colline rwankuba,Colline Rwankuba,09,,-1.75,29.8666667
+rw,colline rwanya,Colline Rwanya,05,,-1.65,29.5
+rw,colline rwaza,Colline Rwaza,05,,-1.7,29.2666667
+rw,colline rwegenya,Colline Rwegenya,02,,-1.3333333,30.3
+rw,colline rwimbogo,Colline Rwimbogo,02,,-1.6,30.3166667
+rw,colline rwinkuba,Colline Rwinkuba,03,,-2.4833333,29.0166667
+rw,colline rwoga,Colline Rwoga,06,,-2.2666667,29.7833333
+rw,colline rwumba,Colline Rwumba,03,,-2.4333333,29.0666667
+rw,colline ryandinzi,Colline Ryandinzi,10,,-1.5166667,29.75
+rw,colline saga,Colline Saga,01,,-2.7,29.8666667
+rw,colline sanga,Colline Sanga,01,,-2.5333333,29.6333333
+rw,colline sayo,Colline Sayo,02,,-1.65,30.0
+rw,colline shahara,Colline Shahara,01,,-2.6666667,29.7666667
+rw,colline shara,Colline Shara,03,,-2.6202778,29.0186111
+rw,colline sheke,Colline Sheke,01,,-2.4833333,29.7166667
+rw,colline shenga,Colline Shenga,09,,-1.85,30.2666667
+rw,colline sholi,Colline Sholi,06,,-2.3,29.7833333
+rw,colline shuti,Colline Shuti,02,,-1.3,30.3
+rw,colline shyanda,Colline Shyanda,01,,-2.5419444,29.7927778
+rw,colline shyorongi,Colline Shyorongi,09,,-1.8544444,29.9625
+rw,colline songa,Colline Songa,10,,-1.5833333,29.65
+rw,colline syogi,Colline Syogi,05,,-1.7,29.55
+rw,colline taba,Colline Taba,10,,-1.6333333,29.5833333
+rw,colline tambwe,Colline Tambwe,06,,-2.2202778,29.7991667
+rw,colline tanda,Colline Tanda,09,,-1.7833333,30.25
+rw,colline tovu,Colline Tovu,02,,-1.3833333,30.1166667
+rw,colline tshanzozo,Colline Tshanzozo,02,,-1.2336111,30.3008333
+rw,colline tsheya,Colline Tsheya,02,,-1.6,30.1166667
+rw,colline tshyugaro,Colline Tshyugaro,09,,-2.1166667,30.05
+rw,colline tumba,Colline Tumba,02,,-1.6944444,29.9483333
+rw,colline umufu,Colline Umufu,04,,-2.7166667,29.35
+rw,colline winteko,Colline Winteko,03,,-2.5333333,28.9
+rw,colline yonde,Colline Yonde,04,,-2.3,29.5166667
+rw,colline zivu,Colline Zivu,01,,-2.5555556,29.8008333
+rw,cyabingo,Cyabingo,10,,-1.5786111,29.6888889
+rw,cyamuhinda,Cyamuhinda,09,,-1.7077778,30.1955556
+rw,cyamuti,Cyamuti,03,,-2.3166667,29.0166667
+rw,cyangugu,Cyangugu,03,63883,-2.4833333,28.8966667
+rw,cyarwa,Cyarwa,01,,-2.6280556,29.7519444
+rw,cyato,Cyato,03,,-2.55,28.9333333
+rw,cyeru,Cyeru,07,,-1.9011111,30.5061111
+rw,cyeru,Cyeru,10,,-1.4880556,29.8130556
+rw,cyesha,Cyesha,03,,-2.3747222,29.0905556
+rw,cyete,Cyete,03,,-2.5333333,28.8833333
+rw,cyibumba,Cyibumba,01,,-2.4,29.9666667
+rw,cyigaro,Cyigaro,04,,-2.3833333,29.5
+rw,cyimbande,Cyimbande,04,,-2.2833333,29.5333333
+rw,cyimbazi,Cyimbazi,09,,-1.9511111,30.3641667
+rw,cyimbogo,Cyimbogo,03,,-2.5338889,28.8938889
+rw,cyimpundu,Cyimpundu,03,,-2.2833333,29.2166667
+rw,cyiya,Cyiya,08,,-2.2677778,29.2652778
+rw,cyondo,Cyondo,02,,-1.45,30.1166667
+rw,cyotomakara,Cyotomakara,01,,-2.4,29.85
+rw,cyumba,Cyumba,02,,-1.5047222,30.0061111
+rw,cyumba,Cyumba,06,,-2.2833333,29.6833333
+rw,cyungo,Cyungo,02,,-1.6230556,29.9541667
+rw,cyuve,Cyuve,10,,-1.4833333,29.65
+rw,gabegi,Gabegi,04,,-2.5333333,29.3833333
+rw,gabiro,Gabiro,03,,-2.4166667,29.0333333
+rw,gacundura,Gacundura,10,,-1.4855556,29.8491667
+rw,gafuba,Gafuba,03,,-2.3666667,29.0166667
+rw,gafunzo,Gafunzo,03,,-2.3927778,29.0044444
+rw,gahanga,Gahanga,10,,-1.6494444,29.6355556
+rw,gaharo,Gaharo,04,,-2.6666667,29.4166667
+rw,gahengele,Gahengele,09,,-1.9666667,30.3333333
+rw,gahondo,Gahondo,01,,-2.3666667,29.7666667
+rw,gakenke,Gakenke,10,,-1.65,29.6833333
+rw,gako,Gako,10,,-1.6833333,29.7833333
+rw,gakoma,Gakoma,02,,-1.4794444,30.1994444
+rw,gakoma,Gakoma,05,,-1.7,29.6333333
+rw,gakoni,Gakoni,03,,-2.6166667,29.0166667
+rw,gakoro,Gakoro,10,,-1.45,29.7
+rw,gangura,Gangura,05,,-1.6333333,29.4
+rw,garama,Garama,02,,-1.5447222,30.2422222
+rw,gasaba,Gasaba,09,,-1.8,30.1333333
+rw,gasagara,Gasagara,09,,-1.85,30.2
+rw,gasaka,Gasaka,04,,-2.4833333,29.5166667
+rw,gasambu,Gasambu,03,,-2.55,28.9
+rw,gasambya,Gasambya,02,,-1.5,30.1
+rw,gasana,Gasana,02,,-1.3166667,30.35
+rw,gasanze,Gasanze,10,,-1.5,29.6666667
+rw,gasasa,Gasasa,05,,-1.7166667,29.5666667
+rw,gasave,Gasave,09,,-1.9136111,30.0663889
+rw,gaseke,Gaseke,05,,-1.7655556,29.5497222
+rw,gashaki,Gashaki,10,,-1.55,29.75
+rw,gashenye,Gashenye,10,,-1.65,29.8333333
+rw,gasheshe,Gasheshe,02,,-1.3333333,30.3833333
+rw,gashinia,Gashinia,09,,-1.7166667,30.1833333
+rw,gashinya,Gashinya,09,,-1.7166667,30.1833333
+rw,gashonga,Gashonga,03,,-2.6,28.95
+rw,gashora,Gashora,09,,-2.2075,30.2436111
+rw,gasura,Gasura,09,,-1.85,30.1
+rw,gatare,Gatare,03,,-2.3047222,29.2088889
+rw,gatatara,Gatatara,05,,-1.65,29.45
+rw,gatete,Gatete,01,,-2.75,29.7666667
+rw,gatete,Gatete,02,,-1.5166667,29.95
+rw,gatete,Gatete,09,,-1.6666667,29.8833333
+rw,gatete,Gatete,10,,-1.4333333,29.65
+rw,gatonde,Gatonde,01,,-2.3833333,29.85
+rw,gatonde,Gatonde,10,,-1.6541667,29.6694444
+rw,gatovu,Gatovu,10,,-1.6086111,29.5630556
+rw,gatsibo,Gatsibo,02,,-1.5758333,30.2441667
+rw,gatsibu,Gatsibu,02,,-1.5758333,30.2441667
+rw,gatsilima,Gatsilima,02,,-1.4166667,30.1333333
+rw,gazinga,Gazinga,02,,-1.2,30.3666667
+rw,gaziza,Gaziza,10,,-1.4338889,29.6483333
+rw,genda,Genda,06,,-2.1666667,29.95
+rw,ghasheshe,Ghasheshe,02,,-1.3,30.2166667
+rw,giciye,Giciye,05,,-1.7027778,29.5597222
+rw,gicuba,Gicuba,10,,-1.5755556,29.8680556
+rw,gihango,Gihango,03,,-2.5166667,28.9
+rw,gihe,Gihe,05,,-1.85,29.6333333
+rw,giheke,Giheke,03,,-2.4666667,28.9666667
+rw,giheta,Giheta,10,,-1.4833333,29.7
+rw,gihinga,Gihinga,03,,-2.45,29.0166667
+rw,gihinga,Gihinga,05,,-1.75,29.3166667
+rw,gihora,Gihora,10,,-1.4666667,29.6
+rw,gikomero,Gikomero,09,,-1.8552778,30.1494444
+rw,gikondo,Gikondo,09,,-1.9833333,30.0666667
+rw,gikongoro,Gikongoro,04,33832,-2.4688889,29.5675
+rw,gikoro,Gikoro,09,,-1.9305556,30.3313889
+rw,girgi,Girgi,09,,-1.85,30.0833333
+rw,gisagara,Gisagara,03,,-2.6,28.9
+rw,gisa,Gisa,05,,-1.6833333,29.2666667
+rw,gisaka,Gisaka,02,,-1.6408333,30.3727778
+rw,gisanze,Gisanze,01,,-2.6,29.8
+rw,gisanze,Gisanze,10,,-1.7,29.6666667
+rw,gisayura,Gisayura,01,,-2.4166667,29.9
+rw,giseke,Giseke,04,,-2.5833333,29.5
+rw,gisenyi,Gisenyi,05,83718,-1.7027778,29.2563889
+rw,gishamvu,Gishamvu,01,,-2.6605556,29.6902778
+rw,gishike,Gishike,01,,-2.3833333,29.75
+rw,gishikiri,Gishikiri,02,,-1.5833333,30.1833333
+rw,gishoma,Gishoma,03,,-2.6163889,28.94
+rw,gishute,Gishute,09,,-1.9,30.2
+rw,gishyita,Gishyita,08,,-2.1627778,29.3005556
+rw,gisodzi,Gisodzi,09,,-1.7833333,29.8833333
+rw,gisongwe,Gisongwe,03,,-2.6833333,28.9833333
+rw,gisovu,Gisovu,08,,-2.2547222,29.3369444
+rw,gisozi,Gisozi,10,,-1.6333333,29.8
+rw,gisuma,Gisuma,03,,-2.4794444,28.9244444
+rw,gitaba,Gitaba,02,,-1.6980556,29.9283333
+rw,gitambi,Gitambi,03,,-2.5833333,28.9833333
+rw,gitambi,Gitambi,09,,-1.7833333,30.1166667
+rw,gitandi,Gitandi,02,,-1.6,29.9333333
+rw,gitarama,Gitarama,06,87613,-2.0744444,29.7566667
+rw,gitare,Gitare,02,,-1.5947222,29.9422222
+rw,gitare,Gitare,10,,-1.4,29.75
+rw,gitega,Gitega,05,,-1.8,29.5833333
+rw,gitenga,Gitenga,02,,-1.4,30.1333333
+rw,gitenge,Gitenge,10,,-1.6666667,29.8
+rw,gitesi,Gitesi,08,,-2.0758333,29.3577778
+rw,githatsha,Githatsha,09,,-1.8966667,30.2386111
+rw,giti,Giti,02,,-1.7491667,30.1877778
+rw,gitoke,Gitoke,02,,-1.6416667,30.3213889
+rw,gitongati,Gitongati,06,,-2.0666667,29.7333333
+rw,gitongo,Gitongo,03,,-2.3166667,29.15
+rw,gitovu,Gitovu,01,,-2.4,29.8
+rw,gitovu,Gitovu,02,,-1.5833333,29.9166667
+rw,gitovu,Gitovu,09,,-1.75,29.8833333
+rw,gitovu,Gitovu,10,,-1.6166667,29.7833333
+rw,gitshatsha,Gitshatsha,09,,-1.8966667,30.2386111
+rw,gitsimba,Gitsimba,09,,-1.6833333,30.3833333
+rw,gitsuba,Gitsuba,09,,-1.8666667,29.9333333
+rw,gituza,Gituza,02,,-1.6013889,30.2844444
+rw,gitwa,Gitwa,05,,-1.7008333,29.4175
+rw,gitwe,Gitwe,10,,-1.5166667,29.8
+rw,gombaniro,Gombaniro,03,,-2.7166667,29.0333333
+rw,gorora,Gorora,02,,-1.75,30.3833333
+rw,gosenyi,Gosenyi,05,,-1.7027778,29.2563889
+rw,guhengeri,Guhengeri,05,,-1.7333333,29.5333333
+rw,hakasiru,Hakasiru,10,,-1.4833333,29.9
+rw,hubingo,Hubingo,09,,-1.8566667,30.0080556
+rw,huye,Huye,01,,-2.5808333,29.7116667
+rw,ibanda,Ibanda,03,,-2.4333333,29.1833333
+rw,ilemera,Ilemera,04,,-2.45,29.55
+rw,isenga,Isenga,09,,-2.4166667,30.1166667
+rw,ityazo,Ityazo,03,,-2.3333333,29.1166667
+rw,janjagiro,Janjagiro,09,,-1.8666667,30.3
+rw,jari,Jari,09,,-1.8666667,30.0166667
+rw,jenda,Jenda,06,,-2.1666667,29.95
+rw,jomba,Jomba,10,,-1.5833333,29.7166667
+rw,kabale,Kabale,02,,-1.5833333,30.3166667
+rw,kabalele,Kabalele,02,,-1.6166667,30.35
+rw,kabanda,Kabanda,06,,-2.0666667,29.7
+rw,kabare,Kabare,02,,-1.5333333,30.1833333
+rw,kabare,Kabare,07,,-1.8841667,30.4430556
+rw,kabarondo,Kabarondo,07,,-2.0172222,30.5486111
+rw,kabaya,Kabaya,05,,-1.7502778,29.5458333
+rw,kabilizi,Kabilizi,02,,-1.3833333,30.3166667
+rw,kabingo,Kabingo,10,,-1.7,29.65
+rw,kabira,Kabira,02,,-1.4833333,30.3166667
+rw,kabirizi,Kabirizi,05,,-1.7,29.2833333
+rw,kabongoya,Kabongoya,02,,-1.5,30.1333333
+rw,kaboza,Kaboza,03,,-2.5666667,28.9666667
+rw,kabuga,Kabuga,06,,-2.2,29.6666667
+rw,kabuga,Kabuga,09,,-1.9666667,30.2166667
+rw,kabutembo,Kabutembo,03,,-2.4166667,28.9166667
+rw,kabutindi,Kabutindi,10,,-1.3975,29.7086111
+rw,kabuye,Kabuye,09,,-1.8744444,30.0475
+rw,kabyaza,Kabyaza,10,,-1.4166667,29.85
+rw,kacyiru,Kacyiru,09,,-1.9625,30.1055556
+rw,kademero,Kademero,10,,-1.3922222,29.8297222
+rw,kadjumo,Kadjumo,02,,-1.4,30.35
+rw,kagabo,Kagabo,02,,-1.3833333,30.35
+rw,kagano,Kagano,03,,-2.3433333,29.1033333
+rw,kagasa,Kagasa,09,,-2.2666667,30.2
+rw,kagunga,Kagunga,01,,-2.4333333,29.8666667
+rw,kagunga,Kagunga,03,,-2.2833333,29.2333333
+rw,kakole,Kakole,02,,-1.0666667,30.4166667
+rw,kakoma,Kakoma,02,,-1.4666667,30.2166667
+rw,kakute,Kakute,02,,-1.4666667,30.2833333
+rw,kalembule,Kalembule,09,,-2.0166667,30.0833333
+rw,kalenda,Kalenda,02,,-1.5833333,29.95
+rw,kamabara,Kamabara,02,,-1.6166667,30.2333333
+rw,kambogo,Kambogo,03,,-2.6333333,29.0166667
+rw,kamembe,Kamembe,03,,-2.4377778,28.9222222
+rw,kamushuri,Kamushuri,02,,-1.4333333,30.05
+rw,kamuzamuzi,Kamuzamuzi,05,,-1.6266667,29.3430556
+rw,kanama,Kanama,05,,-1.6997222,29.3463889
+rw,kanazi,Kanazi,09,,-2.1455556,30.0913889
+rw,kangoma,Kangoma,02,,-1.2833333,30.25
+rw,kangwandi,Kangwandi,05,,-1.7333333,29.3166667
+rw,kanogo,Kanogo,05,,-1.9,29.6166667
+rw,kanombe,Kanombe,09,,-1.9747222,30.1613889
+rw,kanyoni,Kanyoni,09,,-1.7833333,30.0333333
+rw,kanyundo,Kanyundo,02,,-1.3716667,30.4611111
+rw,kanzanza,Kanzanza,05,,-1.6333333,29.3833333
+rw,kanzenze,Kanzenze,09,,-2.1511111,30.0952778
+rw,karagari,Karagari,02,,-1.7961111,30.1919444
+rw,karago,Karago,05,,-1.6655556,29.5180556
+rw,karama,Karama,01,,-2.6130556,29.6377778
+rw,karama,Karama,02,,-1.3944444,30.1533333
+rw,karama,Karama,04,,-2.4325,29.6044444
+rw,karama,Karama,09,,-1.9,30.1666667
+rw,karambo,Karambo,04,,-2.3363889,29.5333333
+rw,karambo,Karambo,09,,-1.7666667,30.0333333
+rw,karambo,Karambo,10,,-1.6333333,29.8333333
+rw,karandarye,Karandarye,05,,-1.65,29.5
+rw,karehe,Karehe,02,,-1.6130556,30.2175
+rw,karengera,Karengera,03,,-2.5230556,29.0358333
+rw,karizinge,Karizinge,09,,-2.2333333,30.25
+rw,karongo,Karongo,02,,-1.5516667,30.915
+rw,karotshyo,Karotshyo,09,,-2.35,30.25
+rw,karundi,Karundi,09,,-1.6980556,30.2288889
+rw,karushya,Karushya,09,,-1.8155556,30.2311111
+rw,kasaka,Kasaka,04,,-2.4833333,29.5166667
+rw,kashango,Kashango,02,,-1.6811111,30.2705556
+rw,kataretare,Kataretare,05,,-1.8333333,29.3666667
+rw,katshuriro,Katshuriro,09,,-1.9333333,30.0833333
+rw,kavumu,Kavumu,06,,-2.2166667,29.6166667
+rw,kayanga,Kayanga,09,,-1.8333333,30.1833333
+rw,kayenzi,Kayenzi,02,,-1.7033333,29.9336111
+rw,kayenzi,Kayenzi,06,,-1.8986111,29.85
+rw,kayenzi,Kayenzi,09,,-2.1333333,30.0666667
+rw,kayonza,Kayonza,07,,-1.9455556,30.5202778
+rw,kayove,Kayove,05,,-1.8844444,29.3530556
+rw,kayovu,Kayovu,09,,-2.2666667,30.2666667
+rw,kazo,Kazo,07,,-2.2,30.5
+rw,kendale,Kendale,02,,-1.1833333,30.4
+rw,kibadirwa,Kibadirwa,04,,-2.3666667,29.45
+rw,kibagabaga,Kibagabaga,09,,-1.9333333,30.1166667
+rw,kibali,Kibali,02,,-1.5819444,30.0466667
+rw,kibangu,Kibangu,01,,-2.7141667,29.65
+rw,kibanza,Kibanza,06,,-1.9666667,29.8833333
+rw,kibari,Kibari,03,,-2.6333333,29.0
+rw,kibasi,Kibasi,03,,-2.4833333,29.0666667
+rw,kibayi,Kibayi,01,,-2.7322222,29.8555556
+rw,kibazi,Kibazi,03,,-2.4833333,29.0666667
+rw,kibembe,Kibembe,01,,-2.735,29.695
+rw,kibilira,Kibilira,05,,-1.9375,29.6213889
+rw,kibinja,Kibinja,01,,-2.3666667,29.7833333
+rw,kiboga,Kiboga,02,,-1.3833333,30.3
+rw,kibungo,Kibungo,07,46235,-2.1644444,30.5419444
+rw,kibungu,Kibungu,07,,-2.1644444,30.5419444
+rw,kibungu,Kibungu,09,,-2.1,30.0333333
+rw,kibuye,Kibuye,08,48024,-2.0555556,29.3497222
+rw,kicukiro,Kicukiro,09,,-1.9769444,30.1058333
+rw,kidaho,Kidaho,10,,-1.37,29.7425
+rw,kigale,Kigale,09,,-1.9536111,30.0605556
+rw,kigali,Kigali,01,,-2.3,29.95
+rw,kigali,Kigali,09,745526,-1.9536111,30.0605556
+rw,kiganda,Kiganda,10,,-1.5694444,29.6755556
+rw,kigarama,Kigarama,04,,-2.2833333,29.5666667
+rw,kigarama,Kigarama,07,,-2.0769444,30.5555556
+rw,kigarama,Kigarama,09,,-1.95,30.15
+rw,kigasa,Kigasa,10,,-1.5333333,29.5666667
+rw,kigembe,Kigembe,01,,-2.735,29.695
+rw,kigeyo,Kigeyo,05,,-1.8166667,29.3
+rw,kigoma,Kigoma,06,,-2.2575,29.7911111
+rw,kigombe,Kigombe,10,,-1.4833333,29.6477778
+rw,kikunyu,Kikunyu,02,,-1.1,30.3666667
+rw,kilambi,Kilambi,02,,-1.5666667,30.15
+rw,kilarambogo,Kilarambogo,01,,-2.6166667,29.9
+rw,kilimbi,Kilimbi,03,,-2.25,29.1833333
+rw,kimbwebwe,Kimbwebwe,02,,-1.1,30.4
+rw,kimironko,Kimironko,09,,-1.75,30.3333333
+rw,kimiryi,Kimiryi,02,,-1.6333333,29.9833333
+rw,kimisange,Kimisange,09,,-1.9952778,30.0486111
+rw,kinanira,Kinanira,05,,-1.7666667,29.55
+rw,kindonye,Kindonye,09,,-2.2,30.1166667
+rw,kindony,Kindony,09,,-2.2,30.1166667
+rw,kinigi,Kinigi,05,,-1.7166667,29.3
+rw,kinigi,Kinigi,10,,-1.4466667,29.6166667
+rw,kinihara,Kinihara,10,,-1.55,29.7833333
+rw,kinihira,Kinihira,05,,-1.6666667,29.5
+rw,kinihira,Kinihira,10,,-1.55,29.7833333
+rw,kinogo,Kinogo,05,,-1.5666667,29.35
+rw,kintarure,Kintarure,05,,-1.7166667,29.6166667
+rw,kinyababa,Kinyababa,10,,-1.3833333,29.8
+rw,kinyamakara,Kinyamakara,04,,-2.4613889,29.6594444
+rw,kinyambo,Kinyambo,02,,-1.4333333,30.2
+rw,kinyami,Kinyami,02,,-1.6486111,30.1327778
+rw,kinyanja,Kinyanja,06,,-2.2333333,29.6166667
+rw,kinyantozi,Kinyantozi,05,,-1.8333333,29.3833333
+rw,kinyoma,Kinyoma,10,,-1.65,29.8166667
+rw,kinyoni,Kinyoni,01,,-2.3166667,29.8333333
+rw,kinzuzi,Kinzuzi,09,,-1.75,30.0166667
+rw,kipuye,Kipuye,02,,-1.4775,29.9311111
+rw,kiraga,Kiraga,05,,-1.7333333,29.3
+rw,kirambo,Kirambo,03,,-2.3116667,29.1363889
+rw,kirambo,Kirambo,09,,-1.7,29.8833333
+rw,kiranga,Kiranga,03,,-2.6333333,28.9166667
+rw,kiraro,Kiraro,10,,-1.7166667,29.6333333
+rw,kirengo,Kirengo,05,,-1.95,29.6
+rw,kirwa,Kirwa,02,,-1.6666667,29.9833333
+rw,kiryi,Kiryi,10,,-1.5333333,29.65
+rw,kisigiro,Kisigiro,09,,-1.75,30.0333333
+rw,kisiguro,Kisiguro,02,,-1.7677778,30.3838889
+rw,kisunzu,Kisunzu,03,,-2.5333333,28.9333333
+rw,kiterwe,Kiterwe,02,,-1.6333333,30.25
+rw,kitongati,Kitongati,06,,-2.0666667,29.7333333
+rw,kitshasa,Kitshasa,09,,-1.8966667,30.2386111
+rw,kivuba,Kivuba,09,,-1.7,30.3
+rw,kivu,Kivu,04,,-2.6166667,29.4666667
+rw,kivumu,Kivumu,08,,-2.0466667,29.5969444
+rw,kivumu,Kivumu,10,,-1.6,29.8666667
+rw,kivuye,Kivuye,02,,-1.4775,29.9311111
+rw,kiyanza,Kiyanza,09,,-1.75,30.0666667
+rw,kiyombe,Kiyombe,02,,-1.4444444,30.0886111
+rw,kiyonza,Kiyonza,01,,-2.7333333,29.7
+rw,kiziguru,Kiziguru,05,,-1.8,29.65
+rw,kizinga,Kizinga,02,,-1.4105556,30.0763889
+rw,kizirakome,Kizirakome,02,,-1.4333333,30.4
+rw,kugihembe,Kugihembe,04,,-2.4644444,29.5919444
+rw,kukabira,Kukabira,09,,-1.7333333,30.1833333
+rw,kukana,Kukana,09,,-2.4,30.1333333
+rw,kulisha,Kulisha,09,,-1.8333333,30.0833333
+rw,kumana,Kumana,02,,-1.8388889,30.4138889
+rw,kumunini,Kumunini,04,,-2.7,29.5166667
+rw,kumutaka,Kumutaka,08,,-1.8833333,29.4666667
+rw,kununya,Kununya,05,,-1.75,29.4333333
+rw,kurukara,Kurukara,01,,-2.6419444,29.6538889
+rw,kuwingugu,Kuwingugu,01,,-2.6,29.4333333
+rw,kuwinkingi,Kuwinkingi,04,,-2.4666667,29.4666667
+rw,kwibanda,Kwibanda,09,,-1.7688889,30.2336111
+rw,kyiombe,Kyiombe,02,,-1.4444444,30.0886111
+rw,kyiri,Kyiri,02,,-1.6833333,29.9
+rw,leberu,Leberu,09,,-2.2,30.1
+rw,lemera,Lemera,04,,-2.45,29.55
+rw,linganwe,Linganwe,01,,-2.6833333,29.7833333
+rw,lubilizi,Lubilizi,02,,-1.2644444,30.23
+rw,lubirizi,Lubirizi,02,,-1.2644444,30.23
+rw,luganda,Luganda,03,,-2.5038889,28.9166667
+rw,lugarama,Lugarama,02,,-1.0822222,30.4372222
+rw,lugarama,Lugarama,07,,-2.3269444,30.6125
+rw,lugera,Lugera,04,,-2.8,29.4
+rw,lugera,Lugera,10,,-1.6333333,29.6166667
+rw,luhanga,Luhanga,09,,-1.9333333,30.25
+rw,luhigiro,Luhigiro,05,,-1.6166667,29.4
+rw,luhonge,Luhonge,03,,-2.5166667,29.3166667
+rw,luhunga,Luhunga,05,,-1.8666667,29.6333333
+rw,lusitare,Lusitare,01,,-2.4236111,29.7752778
+rw,lutendele,Lutendele,02,,-1.5833333,30.35
+rw,luvulu,Luvulu,04,,-2.7691667,29.4552778
+rw,mabanza,Mabanza,08,,-2.0541667,29.4166667
+rw,mabare,Mabare,02,,-1.45,30.1
+rw,mabuye,Mabuye,09,,-2.3833333,30.15
+rw,machuba,Machuba,03,,-2.3,29.2
+rw,macuba,Macuba,03,,-2.3,29.2
+rw,magi,Magi,01,,-2.7333333,29.8333333
+rw,magina,Magina,09,,-2.2666667,30.2166667
+rw,mahoko,Mahoko,05,,-1.7,29.3333333
+rw,mahumbe,Mahumbe,05,,-1.8833333,29.5166667
+rw,maliba,Maliba,01,,-2.6666667,29.6333333
+rw,mamfu,Mamfu,09,,-1.7333333,30.3
+rw,maraba,Maraba,01,,-2.515,29.6797222
+rw,marabuy,Marabuy,05,,-1.8833333,29.35
+rw,mararo,Mararo,10,,-1.55,29.55
+rw,mareba,Mareba,06,,-2.2666667,29.85
+rw,masaka,Masaka,09,,-1.9955556,30.1916667
+rw,masango,Masango,06,,-2.2294444,29.65
+rw,masha,Masha,05,,-1.5833333,29.3333333
+rw,masogwe,Masogwe,02,,-1.6,29.9666667
+rw,maso,Maso,04,,-2.2833333,29.5166667
+rw,masoro,Masoro,09,,-1.8333333,30.05
+rw,matara,Matara,01,,-2.3333333,29.9166667
+rw,mayaga,Mayaga,06,,-2.1,29.9833333
+rw,maya,Maya,10,,-1.4333333,29.6833333
+rw,mayange,Mayange,09,,-2.2113889,30.1172222
+rw,mayobe,Mayobe,06,,-2.2166667,29.5666667
+rw,mbazi,Mbazi,01,,-2.5258333,29.7316667
+rw,mbogo,Mbogo,02,,-1.7422222,30.4416667
+rw,mbogo,Mbogo,09,,-1.7644444,29.97
+rw,mbuye,Mbuye,05,,-1.85,29.65
+rw,mbuye,Mbuye,06,,-2.2333333,29.65
+rw,mibuba,Mibuba,09,,-2.3666667,30.15
+rw,migina,Migina,09,,-2.2666667,30.2166667
+rw,mikingo,Mikingo,05,,-1.9,29.6
+rw,mitshiniro,Mitshiniro,05,,-1.6,29.3833333
+rw,mizingo,Mizingo,05,,-1.6333333,29.4333333
+rw,mont buzigi,Mont Buzigi,02,,-1.7,29.95
+rw,mont cyondo,Mont Cyondo,02,,-1.45,30.1166667
+rw,mont gabegi,Mont Gabegi,04,,-2.5333333,29.3833333
+rw,mont gaharo,Mont Gaharo,04,,-2.6666667,29.4166667
+rw,mont gahengele,Mont Gahengele,09,,-1.9666667,30.3333333
+rw,mont gatete,Mont Gatete,02,,-1.5166667,29.95
+rw,mont ghasheshe,Mont Ghasheshe,02,,-1.3,30.2166667
+rw,mont giseke,Mont Giseke,04,,-2.5833333,29.5
+rw,mont gishikiri,Mont Gishikiri,02,,-1.5833333,30.1833333
+rw,mont jari,Mont Jari,09,,-1.8666667,30.0166667
+rw,mont kabare,Mont Kabare,02,,-1.5333333,30.1833333
+rw,mont kakoma,Mont Kakoma,02,,-1.4666667,30.2166667
+rw,mont kalenda,Mont Kalenda,02,,-1.5833333,29.95
+rw,mont karama,Mont Karama,09,,-1.9,30.1666667
+rw,mont kayenzi,Mont Kayenzi,02,,-1.7033333,29.9336111
+rw,mont kigali,Mont Kigali,09,,-1.9638889,30.0383333
+rw,mont kurukara,Mont Kurukara,01,,-2.6419444,29.6538889
+rw,mont leberu,Mont Leberu,09,,-2.2,30.1
+rw,mont lemera,Mont Lemera,04,,-2.45,29.55
+rw,mont lugarama,Mont Lugarama,02,,-1.0822222,30.4372222
+rw,mont lugera,Mont Lugera,04,,-2.8,29.4
+rw,mont luhonge,Mont Luhonge,03,,-2.5166667,29.3166667
+rw,mont masogwe,Mont Masogwe,02,,-1.6,29.9666667
+rw,mont mugusa,Mont Mugusa,01,,-2.5002778,29.8491667
+rw,mont murama,Mont Murama,02,,-1.3327778,30.3213889
+rw,mont murambi,Mont Murambi,02,,-1.4,30.1
+rw,mont muyumbu,Mont Muyumbu,02,,-1.3711111,30.1583333
+rw,mont mwulire,Mont Mwulire,01,,-2.5333333,29.75
+rw,mont ndjari,Mont Ndjari,09,,-1.8666667,30.0166667
+rw,mont ndoma,Mont Ndoma,02,,-1.1719444,30.395
+rw,mont neke,Mont Neke,02,,-1.5666667,30.2166667
+rw,mont nyakisu,Mont Nyakisu,01,,-2.7344444,29.6402778
+rw,mont nyamisangi,Mont Nyamisangi,02,,-1.1166667,30.3833333
+rw,mont nyamiyaga,Mont Nyamiyaga,02,,-1.6666667,30.1333333
+rw,mont nyangara,Mont Nyangara,02,,-1.4166667,30.15
+rw,mont nyaruwanga,Mont Nyaruwanga,02,,-1.2666667,30.3833333
+rw,mont nzega,Mont Nzega,04,,-2.4833333,29.5666667
+rw,mont rubona,Mont Rubona,10,,-1.55,29.8833333
+rw,mont ruhanga,Mont Ruhanga,09,,-1.75,29.9166667
+rw,mont rutoma,Mont Rutoma,02,,-1.4333333,30.3166667
+rw,mont shololo,Mont Shololo,04,,-2.75,29.5
+rw,mont shori,Mont Shori,01,,-2.65,29.7166667
+rw,mpage,Mpage,03,,-2.3833333,29.15
+rw,mpanga,Mpanga,06,,-2.3,29.7333333
+rw,mpanga,Mpanga,09,,-2.0,30.0333333
+rw,mpare,Mpare,06,,-2.1166667,29.6833333
+rw,mpira,Mpira,09,,-2.2666667,30.1833333
+rw,mubori,Mubori,03,,-2.5166667,29.0166667
+rw,mubuga,Mubuga,04,,-2.6875,29.5586111
+rw,mubumbano,Mubumbano,01,,-2.6666667,29.7333333
+rw,mubumbano,Mubumbano,03,,-2.35,29.1
+rw,mudasomwa,Mudasomwa,04,,-2.5172222,29.4827778
+rw,mudende,Mudende,05,,-1.6166667,29.3833333
+rw,mufumba,Mufumba,05,,-1.6166667,29.3166667
+rw,mugakindu,Mugakindu,02,,-1.1833333,30.3
+rw,mugamba,Mugamba,10,,-1.5833333,29.7833333
+rw,mugambazi,Mugambazi,09,,-1.7863889,30.0480556
+rw,mugano,Mugano,05,,-1.8333333,29.6166667
+rw,muganza,Muganza,01,,-2.6694444,29.8472222
+rw,mugejuru,Mugejuru,04,,-2.3666667,29.4666667
+rw,mugera,Mugera,02,,-1.6166667,30.2666667
+rw,mugesera,Mugesera,07,,-2.1288889,30.4158333
+rw,mugina,Mugina,06,,-2.1027778,29.9525
+rw,mugomba,Mugomba,03,,-2.3333333,29.2666667
+rw,mugunga,Mugunga,06,,-1.8166667,29.75
+rw,mugusa,Mugusa,01,,-2.5002778,29.8491667
+rw,muhambo,Muhambo,02,,-1.4436111,30.1686111
+rw,muhanda,Muhanda,05,,-1.8,29.5166667
+rw,muhari,Muhari,03,,-2.4666667,28.9
+rw,muhazi,Muhazi,07,,-1.9019444,30.4113889
+rw,muhehwe,Muhehwe,03,,-2.6333333,28.9666667
+rw,muhero,Muhero,01,,-2.4,29.9333333
+rw,muhingu,Muhingu,02,,-1.5166667,30.2833333
+rw,muhorora,Muhorora,10,,-1.5666667,29.7
+rw,muhororo,Muhororo,10,,-1.5166667,29.7166667
+rw,muhoza,Muhoza,06,,-2.25,29.65
+rw,muhura,Muhura,02,,-1.7344444,30.2708333
+rw,mukarange,Mukarange,02,,-1.5280556,30.0786111
+rw,mukingi,Mukingi,06,,-2.16,29.7288889
+rw,mukingo,Mukingo,10,,-1.5369444,29.5633333
+rw,mukoma,Mukoma,03,,-2.35,29.0166667
+rw,muko,Muko,02,,-1.6833333,29.9
+rw,muko,Muko,03,,-2.4333333,29.05
+rw,muko,Muko,04,,-2.3602778,29.4441667
+rw,mukoni,Mukoni,04,,-2.5166667,29.5666667
+rw,mukuyu,Mukuyu,09,,-1.7825,30.2180556
+rw,mulamoi,Mulamoi,02,,-1.7402778,30.3919444
+rw,mulemule,Mulemule,05,,-1.7166667,29.5333333
+rw,mulindi,Mulindi,02,,-1.4863889,30.0363889
+rw,mulinja,Mulinja,09,,-2.05,30.1166667
+rw,mulire,Mulire,01,,-2.5333333,29.75
+rw,mumatyazo,Mumatyazo,02,,-1.6833333,30.15
+rw,munini,Munini,02,,-1.5333333,30.0666667
+rw,munini,Munini,04,,-2.7177778,29.5344444
+rw,munsheke,Munsheke,02,,-1.2833333,30.3666667
+rw,munyinya,Munyinya,03,,-2.5666667,28.95
+rw,munyove,Munyove,03,,-2.4666667,28.9333333
+rw,murama,Murama,01,,-2.7166667,29.7
+rw,murama,Murama,02,,-1.3327778,30.3213889
+rw,murama,Murama,06,,-2.2686111,29.7041667
+rw,muramba,Muramba,03,,-2.2833333,29.1666667
+rw,muramba,Muramba,05,,-1.8666667,29.5333333
+rw,muramba,Muramba,10,,-1.6,29.6833333
+rw,murambi,Murambi,02,,-1.4,30.1
+rw,murambi,Murambi,05,,-1.7333333,29.55
+rw,murambi,Murambi,09,,-1.8133333,30.0444444
+rw,murambi,Murambi,10,,-1.6333333,29.8333333
+rw,murandi,Murandi,10,,-1.55,29.7333333
+rw,murangi,Murangi,03,,-2.5,28.9166667
+rw,murara,Murara,09,,-2.35,30.1666667
+rw,muraza,Muraza,03,,-2.3,29.15
+rw,murehe,Murehe,03,,-2.5666667,28.9166667
+rw,murito,Murito,03,,-2.3833333,28.9833333
+rw,murore,Murore,02,,-1.5,30.0166667
+rw,murubaya,Murubaya,02,,-1.4733333,29.9916667
+rw,murunda,Murunda,05,,-1.9,29.3666667
+rw,mururu,Mururu,03,,-2.5166667,28.8666667
+rw,muryorera,Muryorera,02,,-1.5,29.9666667
+rw,musagara,Musagara,05,,-1.8333333,29.6166667
+rw,musama,Musama,10,,-1.3833333,29.85
+rw,musambila,Musambila,06,,-2.045,29.8419444
+rw,musambira,Musambira,06,,-2.045,29.8419444
+rw,musange,Musange,04,,-2.2658333,29.5552778
+rw,musasa,Musasa,09,,-1.8002778,29.8394444
+rw,musave,Musave,09,,-1.9133333,30.1725
+rw,musebeya,Musebeya,04,,-2.4133333,29.4455556
+rw,musebeya,Musebeya,10,,-1.5833333,29.6833333
+rw,muse,Muse,04,,-2.5,29.5166667
+rw,musenge,Musenge,01,,-2.6333333,29.7666667
+rw,musenyi,Musenyi,02,,-1.7030556,30.1094444
+rw,musezero,Musezero,09,,-1.9236111,30.0691667
+rw,musheri,Musheri,02,,-1.1333333,30.3833333
+rw,mushirarungu,Mushirarungu,01,,-2.35,29.7166667
+rw,mushongi,Mushongi,02,,-1.65,29.9
+rw,mushubati,Mushubati,06,,-2.0588889,29.7275
+rw,musoro,Musoro,03,,-2.45,28.9666667
+rw,musumba,Musumba,06,,-2.1166667,29.8166667
+rw,musumule,Musumule,09,,-2.25,30.1833333
+rw,mutambiko,Mutambiko,09,,-1.75,30.1833333
+rw,mutamo,Mutamo,05,,-1.6666667,29.4833333
+rw,mutara,Mutara,02,,-1.6333333,29.95
+rw,mutego,Mutego,10,,-1.7333333,29.65
+rw,mutende,Mutende,01,,-2.3166667,29.8
+rw,mutima,Mutima,01,,-2.3833333,29.8833333
+rw,mutimasi,Mutimasi,03,,-2.5397222,28.9402778
+rw,mutimazi,Mutimazi,03,,-2.5397222,28.9402778
+rw,muti,Muti,02,,-1.6166667,30.2
+rw,muti,Muti,05,,-1.6208333,29.3044444
+rw,mutongo,Mutongo,03,,-2.2833333,29.2
+rw,mutura,Mutura,05,,-1.5988889,29.3822222
+rw,muture,Muture,02,,-1.4802778,30.0241667
+rw,mutusa,Mutusa,03,,-2.3833333,29.0833333
+rw,mutuza,Mutuza,03,,-2.3833333,29.0833333
+rw,muvumba,Muvumba,02,,-1.3711111,30.1583333
+rw,muvumu,Muvumu,09,,-1.85,29.9166667
+rw,muyaga,Muyaga,01,,-2.4647222,29.9233333
+rw,muyage,Muyage,04,,-2.4333333,29.6833333
+rw,muyira,Muyira,01,,-2.3447222,29.8777778
+rw,muyumbu,Muyumbu,02,,-1.3711111,30.1583333
+rw,muyumbu,Muyumbu,09,,-1.9738889,30.255
+rw,muzenga,Muzenga,01,,-2.6333333,29.7666667
+rw,mwanabili,Mwanabili,06,,-2.2666667,29.7666667
+rw,mwegera,Mwegera,03,,-2.6,29.0666667
+rw,mwendo,Mwendo,08,,-2.1855556,29.5119444
+rw,mwendo,Mwendo,09,,-1.7166667,30.2
+rw,mwendo,Mwendo,10,,-1.6333333,29.7166667
+rw,mwenya,Mwenya,02,,-1.6333333,30.2166667
+rw,mweru,Mweru,10,,-1.4058333,29.7369444
+rw,mwijanda,Mwijanda,01,,-2.4833333,29.6666667
+rw,mwishe,Mwishe,09,,-1.8,30.0
+rw,mwite,Mwite,09,,-1.7333333,30.0
+rw,mwito,Mwito,03,,-2.3833333,28.9833333
+rw,mwiviro,Mwiviro,09,,-1.7333333,30.2666667
+rw,mwufe,Mwufe,05,,-1.7794444,29.3083333
+rw,mwulira,Mwulira,01,,-2.5333333,29.75
+rw,mwulire,Mwulire,01,,-2.5333333,29.75
+rw,mwumba,Mwumba,06,,-2.25,29.5833333
+rw,myariro,Myariro,09,,-2.3,30.1666667
+rw,ndaganzwa,Ndaganzwa,05,,-1.9166667,29.6166667
+rw,ndago,Ndago,01,,-2.4166667,29.8833333
+rw,ndera,Ndera,09,,-1.9666667,30.1666667
+rw,ndiza,Ndiza,06,,-1.8777778,29.7530556
+rw,ndoma,Ndoma,02,,-1.1719444,30.395
+rw,ndora,Ndora,01,,-2.6033333,29.8336111
+rw,ndusu,Ndusu,10,,-1.6975,29.6705556
+rw,neke,Neke,02,,-1.5666667,30.2166667
+rw,nemba,Nemba,10,,-1.55,29.85
+rw,nengo,Nengo,05,,-1.7,29.2666667
+rw,ngando,Ngando,05,,-1.5847222,29.4125
+rw,ngange,Ngange,09,,-1.7166667,30.2333333
+rw,nganzo,Nganzo,05,,-1.8,29.65
+rw,nganzo,Nganzo,10,,-1.65,29.75
+rw,ngarama,Ngarama,02,,-1.5447222,30.2422222
+rw,ngenda,Ngenda,09,,-2.305,30.0494444
+rw,ngeruka,Ngeruka,09,,-2.3,30.15
+rw,ngiryi,Ngiryi,09,,-1.85,30.0833333
+rw,ngoma,Ngoma,01,,-2.5852778,29.7416667
+rw,ngoma,Ngoma,05,,-1.9,29.35
+rw,ngoma,Ngoma,10,,-1.55,29.8
+rw,nguba,Nguba,09,,-1.8561111,30.1122222
+rw,ngurugunzu,Ngurugunzu,05,,-1.95,29.6
+rw,ngyrgyi,Ngyrgyi,09,,-1.85,30.0833333
+rw,nkamba,Nkamba,02,,-1.4536111,30.09
+rw,nkana,Nkana,02,,-1.4,30.12
+rw,nkanda,Nkanda,01,,-2.7833333,29.4833333
+rw,nkanka,Nkanka,03,,-2.4166667,28.9333333
+rw,nkuli,Nkuli,10,,-1.5919444,29.5263889
+rw,nkumba,Nkumba,10,,-1.4405556,29.7094444
+rw,nkunzuzu,Nkunzuzu,09,,-1.8666667,30.1666667
+rw,nkurubuye,Nkurubuye,03,,-2.5166667,28.9666667
+rw,nomba,Nomba,06,,-2.3,29.8166667
+rw,nseka,Nseka,04,,-2.4833333,29.5666667
+rw,nshili,Nshili,04,,-2.7516667,29.4925
+rw,ntarabana,Ntarabana,09,,-1.7833333,29.9166667
+rw,ntebe,Ntebe,09,,-2.0833333,30.3
+rw,ntehe,Ntehe,09,,-2.0833333,30.3
+rw,ntobwe,Ntobwe,05,,-1.9666667,29.6333333
+rw,ntogwe,Ntogwe,06,,-2.2225,29.8594444
+rw,ntoma,Ntoma,02,,-1.1719444,30.395
+rw,ntonde,Ntonde,09,,-1.7666667,29.9333333
+rw,ntyazo,Ntyazo,01,,-2.4294444,29.8830556
+rw,nulambi,Nulambi,05,,-1.9,29.3333333
+rw,nyabichwamba,Nyabichwamba,02,,-1.6,30.25
+rw,nyabihu,Nyabihu,05,,-1.7833333,29.5833333
+rw,nyabikenke,Nyabikenke,06,,-1.8947222,29.7525
+rw,nyabishambi,Nyabishambi,02,,-1.55,30.0666667
+rw,nyabisindu,Nyabisindu,01,,-2.35,29.6666667
+rw,nyabisindu,Nyabisindu,02,,-1.8297222,30.3838889
+rw,nyabisindu,Nyabisindu,04,,-2.3580556,29.7386111
+rw,nyabiteke,Nyabiteke,03,,-2.3333333,29.0333333
+rw,nyabugando,Nyabugando,02,,-1.5333333,30.4166667
+rw,nyacyonga,Nyacyonga,09,,-1.8641667,30.0866667
+rw,nyagahinika,Nyagahinika,05,,-1.8,29.3333333
+rw,nyagahita,Nyagahita,02,,-1.5,30.2
+rw,nyagasozi,Nyagasozi,10,,-1.35,29.75
+rw,nyagatare,Nyagatare,02,,-1.2983333,30.3219444
+rw,nyagatugunda,Nyagatugunda,02,,-1.7977778,30.1752778
+rw,nyagisozi,Nyagisozi,01,,-2.7666667,29.6166667
+rw,nyagitabire,Nyagitabire,02,,-1.65,30.1833333
+rw,nyakabanda,Nyakabanda,01,,-2.7666667,29.6833333
+rw,nyakabanda,Nyakabanda,06,,-1.8402778,29.6869444
+rw,nyakabongo,Nyakabongo,09,,-1.8,30.25
+rw,nyakabumgo,Nyakabumgo,06,,-2.2166667,29.8666667
+rw,nyakabungo,Nyakabungo,02,,-1.6333333,30.15
+rw,nyakabungo,Nyakabungo,09,,-1.8980556,30.2325
+rw,nyakabu,Nyakabu,06,,-2.2666667,29.7
+rw,nyakabuye,Nyakabuye,03,,-2.5694444,29.0280556
+rw,nyakanyinya,Nyakanyinya,03,,-2.5166667,28.9333333
+rw,nyakayogera,Nyakayogera,10,,-1.5833333,29.8666667
+rw,nyakesha,Nyakesha,02,,-1.4386111,30.0011111
+rw,nyakibanda,Nyakibanda,01,,-2.6333333,29.6833333
+rw,nyakibande,Nyakibande,09,,-1.8011111,30.0355556
+rw,nyakinama,Nyakinama,10,,-1.5727778,29.6416667
+rw,nyakingandu,Nyakingandu,02,,-1.4333333,30.3333333
+rw,nyakisosi,Nyakisosi,01,,-2.7666667,29.6166667
+rw,nyakizu,Nyakizu,01,,-2.7344444,29.6402778
+rw,nyamabuye,Nyamabuye,06,,-2.0680556,29.7661111
+rw,nyamabuye,Nyamabuye,09,,-1.9372222,30.0361111
+rw,nyamagabe,Nyamagabe,04,,-2.4591667,29.5647222
+rw,nyamagana,Nyamagana,03,,-2.5463889,28.8991667
+rw,nyamengo,Nyamengo,02,,-1.6152778,30.315
+rw,nyamigogo,Nyamigogo,10,,-1.4075,29.6816667
+rw,nyamikama,Nyamikama,02,,-1.5166667,30.25
+rw,nyamikamba,Nyamikamba,02,,-1.4,30.2166667
+rw,nyamirembe,Nyamirembe,02,,-1.65,30.35
+rw,nyamisangi,Nyamisangi,02,,-1.1166667,30.3833333
+rw,nyamiyaga,Nyamiyaga,02,,-1.6666667,30.1333333
+rw,nyamugali,Nyamugali,09,,-1.9252778,30.0444444
+rw,nyamugali,Nyamugali,10,,-1.5711111,29.8702778
+rw,nyamugari,Nyamugari,03,,-2.4,29.0
+rw,nyamutera,Nyamutera,10,,-1.6208333,29.6316667
+rw,nyamweru,Nyamweru,09,,-1.95,30.0166667
+rw,nyamyumba,Nyamyumba,05,,-1.7397222,29.2933333
+rw,nyanda,Nyanda,02,,-1.6,30.05
+rw,nyangara,Nyangara,02,,-1.4166667,30.15
+rw,nyange,Nyange,02,,-1.4822222,30.0691667
+rw,nyankenke,Nyankenke,02,,-1.6,30.0166667
+rw,nyantomvu,Nyantomvu,03,,-2.55,29.05
+rw,nyanza,Nyanza,01,56679,-2.5833333,29.7166667
+rw,nyanza,Nyanza,04,56679,-2.3580556,29.7386111
+rw,nyanza,Nyanza,09,,-1.7833333,30.15
+rw,nyarubungu,Nyarubungu,02,,-1.5666667,30.25
+rw,nyarubuye,Nyarubuye,07,,-1.8844444,30.3730556
+rw,nyarugali,Nyarugali,07,,-1.9236111,30.4008333
+rw,nyarugenge,Nyarugenge,09,,-1.9402778,30.0652778
+rw,nyarugina,Nyarugina,10,,-1.45,29.55
+rw,nyarugumba,Nyarugumba,02,,-1.5286111,30.4130556
+rw,nyaruhengeli,Nyaruhengeli,01,,-2.6827778,29.7741667
+rw,nyarukengeri,Nyarukengeri,01,,-2.6827778,29.7741667
+rw,nyarungu,Nyarungu,10,,-1.4833333,29.8166667
+rw,nyarurama,Nyarurama,06,,-2.3166667,29.65
+rw,nyarurama,Nyarurama,09,,-2.4333333,30.1666667
+rw,nyarushishi,Nyarushishi,03,,-2.5,28.95
+rw,nyarutembe,Nyarutembe,10,,-1.6,29.6166667
+rw,nyaruteme,Nyaruteme,05,,-1.6166667,29.3666667
+rw,nyarutovu,Nyarutovu,10,,-1.6455556,29.7708333
+rw,nyarutsi,Nyarutsi,04,,-2.2833333,29.5833333
+rw,nyaruvumu,Nyaruvumu,02,,-1.6036111,30.08
+rw,nyaruwanga,Nyaruwanga,02,,-1.2666667,30.3833333
+rw,nyenje,Nyenje,03,,-2.65,28.9
+rw,nyondo,Nyondo,05,,-1.7166667,29.3166667
+rw,nyonilima,Nyonilima,10,,-1.6166667,29.6666667
+rw,nyundo,Nyundo,02,,-1.6963889,30.0269444
+rw,nyunzwe,Nyunzwe,06,,-2.15,29.65
+rw,nzahaha,Nzahaha,03,,-2.6666667,28.9666667
+rw,nzangwa,Nzangwa,09,,-2.3666667,30.25
+rw,nzega,Nzega,04,,-2.4833333,29.5666667
+rw,plateau kipuye,Plateau Kipuye,02,,-1.4775,29.9311111
+rw,ramba,Ramba,05,,-1.8736111,29.5425
+rw,rango,Rango,03,,-2.5833333,28.9166667
+rw,rekisugi,Rekisugi,02,,-1.3,30.2333333
+rw,remera,Remera,03,,-2.3666667,29.1333333
+rw,remera,Remera,04,,-2.45,29.55
+rw,remera,Remera,09,,-1.8,29.9833333
+rw,rimwe,Rimwe,09,,-1.8833333,29.95
+rw,rongi,Rongi,05,,-1.9,29.65
+rw,rubaka,Rubaka,10,,-1.5666667,29.5333333
+rw,rubavu,Rubavu,05,,-1.6825,29.2969444
+rw,rubaya,Rubaya,05,,-1.6825,29.2969444
+rw,rubeja,Rubeja,10,,-1.7,29.6833333
+rw,rubona,Rubona,01,,-2.3166667,29.9333333
+rw,rubona,Rubona,03,,-2.3166667,29.25
+rw,rubona,Rubona,05,,-1.9666667,29.6333333
+rw,rubona,Rubona,09,,-1.7833333,29.8666667
+rw,rubona,Rubona,10,,-1.5333333,29.8666667
+rw,rubungo,Rubungo,09,,-1.9458333,30.1261111
+rw,rubungu,Rubungu,02,,-1.4833333,30.35
+rw,rudaga,Rudaga,03,,-2.3333333,29.25
+rw,rugamba,Rugamba,05,,-1.8666667,29.3
+rw,ruganda,Ruganda,03,,-2.5038889,28.9166667
+rw,rugaragara,Rugaragara,03,,-2.4,28.9333333
+rw,rugaragara,Rugaragara,09,,-1.7,30.2166667
+rw,rugarama,Rugarama,05,,-1.5741667,29.3525
+rw,rugarama,Rugarama,09,,-1.7983333,30.29
+rw,rugarama,Rugarama,10,,-1.4,29.7333333
+rw,rugari,Rugari,10,,-1.5166667,29.85
+rw,rugendabari,Rugendabari,10,,-1.6333333,29.5833333
+rw,rugende,Rugende,09,,-1.9511111,30.2422222
+rw,rugendo,Rugendo,07,,-2.2022222,30.2833333
+rw,rugenge,Rugenge,09,,-2.2833333,30.2166667
+rw,rugera,Rugera,10,,-1.6333333,29.6166667
+rw,rugerero,Rugerero,05,,-1.7166667,29.3
+rw,rugobagoba,Rugobagoba,06,,-2.0166667,29.8833333
+rw,rugogwe,Rugogwe,02,,-1.6666667,30.3
+rw,rugoti,Rugoti,05,,-1.9166667,29.3666667
+rw,ruhanga,Ruhanga,09,,-1.75,29.9166667
+rw,ruhanga,Ruhanga,10,,-1.4833333,29.8333333
+rw,ruhanya,Ruhanya,09,,-1.7333333,29.9333333
+rw,ruharabuge,Ruharabuge,09,,-1.9641667,30.0175
+rw,ruhara,Ruhara,05,,-1.6,29.3
+rw,ruhashya,Ruhashya,01,,-2.4725,29.7311111
+rw,ruhengeri,Ruhengeri,10,86737,-1.4833333,29.6166667
+rw,ruhinga,Ruhinga,10,,-1.6166667,29.75
+rw,ruhoko,Ruhoko,03,,-2.6666667,28.95
+rw,ruhondo,Ruhondo,10,,-1.5291667,29.7244444
+rw,ruhurura,Ruhurura,10,,-1.4666667,29.85
+rw,ruinihingo,Ruinihingo,02,,-1.4,30.25
+rw,rukara,Rukara,07,,-1.7986111,30.5005556
+rw,rukira,Rukira,01,,-2.5833333,29.7
+rw,rukira,Rukira,07,,-2.1533333,30.6113889
+rw,rukoko,Rukoko,05,,-1.65,29.2666667
+rw,rukoma,Rukoma,10,,-1.6166667,29.5166667
+rw,rukomo,Rukomo,02,,-1.3361111,30.2708333
+rw,rukona,Rukona,10,,-1.45,29.65
+rw,rukondo,Rukondo,04,,-2.3886111,29.6091667
+rw,rukoro,Rukoro,10,,-1.5666667,29.6333333
+rw,rukura,Rukura,09,,-1.6833333,29.8333333
+rw,runda,Runda,06,,-1.9705556,29.9544444
+rw,runyanga,Runyanga,06,,-2.3166667,29.7
+rw,runyinya,Runyinya,01,,-2.6422222,29.6075
+rw,runyinya,Runyinya,09,,-1.8833333,30.3333333
+rw,runyinya,Runyinya,10,,-1.7333333,29.6833333
+rw,rurama,Rurama,03,,-2.5133333,29.0166667
+rw,rusasa,Rusasa,10,,-1.6333333,29.6666667
+rw,rusatira,Rusatira,01,,-2.4236111,29.7752778
+rw,rusayo,Rusayo,10,,-1.5666667,29.7333333
+rw,rusebeya,Rusebeya,10,,-1.6333333,29.6833333
+rw,rusekera,Rusekera,02,,-1.5666667,29.95
+rw,rusekera,Rusekera,05,,-1.7166667,29.3833333
+rw,rushari,Rushari,10,,-1.5666667,29.85
+rw,rushashi,Rushashi,09,,-1.7330556,29.8591667
+rw,rushebeya,Rushebeya,02,,-1.4666667,30.1166667
+rw,rusiga,Rusiga,09,,-1.8166667,29.9166667
+rw,rusingi,Rusingi,05,,-1.8,29.5666667
+rw,rusororo,Rusororo,09,,-1.9738889,30.2230556
+rw,rusoro,Rusoro,10,,-1.7166667,29.6666667
+rw,rusumo,Rusumo,07,,-2.2730556,30.7091667
+rw,rususa,Rususa,05,,-1.85,29.6333333
+rw,rutamba,Rutamba,10,,-1.4166667,29.7166667
+rw,rutare,Rutare,02,,-1.2833333,30.3
+rw,rutarure,Rutarure,05,,-1.7666667,29.5833333
+rw,rutobwe,Rutobwe,06,,-1.9863889,29.7952778
+rw,rutogbe,Rutogbe,06,,-1.9863889,29.7952778
+rw,rutoma,Rutoma,02,,-1.4333333,30.3166667
+rw,rutonde,Rutonde,07,,-1.9613889,30.4377778
+rw,rutonde,Rutonde,09,,-1.9,29.9666667
+rw,rutondwe,Rutondwe,09,,-1.8666667,29.95
+rw,rutongo,Rutongo,09,,-1.8616667,30.0383333
+rw,rutsiro,Rutsiro,08,,-1.96,29.3894444
+rw,ruwiri,Ruwiri,05,,-1.8136111,29.4925
+rw,ruyange,Ruyange,10,,-1.5,29.8166667
+rw,ruyaraka,Ruyaraka,02,,-1.35,30.3833333
+rw,ruyenzi,Ruyenzi,01,,-2.4333333,29.8333333
+rw,ruyonga,Ruyonga,03,,-2.5666667,28.9333333
+rw,rwabicuma,Rwabicuma,01,,-2.35,29.7
+rw,rwabidege,Rwabidege,03,,-2.4833333,29.05
+rw,rwahi,Rwahi,03,,-2.4333333,28.9333333
+rw,rwakirari,Rwakirari,10,,-1.65,29.75
+rw,rwamagana,Rwamagana,07,50076,-1.9525,30.4377778
+rw,rwamatamu,Rwamatamu,08,,-2.1955556,29.2413889
+rw,rwamiko,Rwamiko,03,,-2.4897222,28.9508333
+rw,rwamiko,Rwamiko,04,,-2.5916667,29.5005556
+rw,rwamiko,Rwamiko,09,,-1.7666667,30.2
+rw,rwangara,Rwangara,05,,-1.6333333,29.3166667
+rw,rwani,Rwani,09,,-1.85,29.9333333
+rw,rwankeri,Rwankeri,10,,-1.6,29.5333333
+rw,rwankomo,Rwankomo,05,,-1.7,29.35
+rw,rwankuba,Rwankuba,05,,-1.6166667,29.3666667
+rw,rwankuba,Rwankuba,09,,-1.75,29.8666667
+rw,rwanya,Rwanya,05,,-1.65,29.5
+rw,rwarenga,Rwarenga,09,,-1.7333333,30.3369444
+rw,rwasama,Rwasama,02,,-1.5872222,30.0744444
+rw,rwasama,Rwasama,09,,-1.7397222,30.3033333
+rw,rwaza,Rwaza,05,,-1.7,29.2666667
+rw,rwegenya,Rwegenya,02,,-1.3333333,30.3
+rw,rwempasha,Rwempasha,02,,-1.2125,30.2986111
+rw,rwenjara,Rwenjara,02,,-1.3930556,30.5136111
+rw,rwerere,Rwerere,05,,-1.6075,29.3311111
+rw,rwesero,Rwesero,03,,-2.3747222,29.0905556
+rw,rwimbogo,Rwimbogo,02,,-1.6,30.3166667
+rw,rwimitereri,Rwimitereri,02,,-1.8166667,30.3472222
+rw,rwinkuba,Rwinkuba,03,,-2.4833333,29.0166667
+rw,rwinkwavu,Rwinkwavu,07,,-1.9591667,30.6147222
+rw,rwoga,Rwoga,06,,-2.2666667,29.7833333
+rw,rwumba,Rwumba,03,,-2.4333333,29.0666667
+rw,ryandinzi,Ryandinzi,10,,-1.5166667,29.75
+rw,saga,Saga,01,,-2.7,29.8666667
+rw,sake,Sake,07,,-2.2105556,30.3747222
+rw,sanga,Sanga,01,,-2.5333333,29.6333333
+rw,satinsyi,Satinsyi,05,,-1.8113889,29.6280556
+rw,sayo,Sayo,02,,-1.65,30.0
+rw,shahara,Shahara,01,,-2.6666667,29.7666667
+rw,shangasha,Shangasha,02,,-1.5272222,30.0708333
+rw,shango,Shango,09,,-1.8505556,30.1338889
+rw,shangugu,Shangugu,03,,-2.4833333,28.8966667
+rw,shara,Shara,03,,-2.6202778,29.0186111
+rw,sha,Sha,09,,-1.8305556,30.105
+rw,sheke,Sheke,01,,-2.4833333,29.7166667
+rw,shenga,Shenga,09,,-1.85,30.2666667
+rw,sholi,Sholi,06,,-2.3,29.7833333
+rw,shololo,Shololo,04,,-2.75,29.5
+rw,shonga,Shonga,02,,-1.32,30.1791667
+rw,shori,Shori,01,,-2.65,29.7166667
+rw,shuti,Shuti,02,,-1.3,30.3
+rw,shyanda,Shyanda,01,,-2.5419444,29.7927778
+rw,shyogi,Shyogi,05,,-1.7,29.55
+rw,shyorongi,Shyorongi,09,,-1.8544444,29.9625
+rw,songa,Songa,10,,-1.5833333,29.65
+rw,syogi,Syogi,05,,-1.7,29.55
+rw,tabagwe,Tabagwe,02,,-1.2858333,30.2066667
+rw,taba,Taba,06,,-1.9463889,29.8988889
+rw,taba,Taba,10,,-1.6333333,29.5833333
+rw,tambwe,Tambwe,06,,-2.2202778,29.7991667
+rw,tandalukara,Tandalukara,10,,-1.55,29.8666667
+rw,tanda,Tanda,09,,-1.7833333,30.25
+rw,tare,Tare,09,,-1.7155556,29.9144444
+rw,tovu,Tovu,02,,-1.3833333,30.1166667
+rw,tshanzozo,Tshanzozo,02,,-1.2336111,30.3008333
+rw,tshato,Tshato,03,,-2.55,28.9333333
+rw,tsheya,Tsheya,02,,-1.6,30.1166667
+rw,tshyondo,Tshyondo,02,,-1.45,30.1166667
+rw,tshyugaro,Tshyugaro,09,,-2.1166667,30.05
+rw,tumba,Tumba,02,,-1.6944444,29.9483333
+rw,umufu,Umufu,04,,-2.7166667,29.35
+rw,umwige,Umwige,07,,-1.8405556,30.4841667
+rw,winteko,Winteko,03,,-2.5333333,28.9
+rw,yenda,Yenda,06,,-2.1666667,29.95
+rw,yonde,Yonde,04,,-2.3,29.5166667
+rw,zivu,Zivu,01,,-2.5555556,29.8008333
