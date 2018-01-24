@@ -17,6 +17,10 @@ module Pyr
           where("lower(name) = ?", name).where("lower(admin_code_1) = ?", admin_code_1).where("lower(iso_country) = ?", iso_country)
         end
 
+        def is_primary
+          where(is_primary: true)
+        end
+
         def geo_distance(lat1, lng1, lat2, lng2) 
           select("pyr_geo_distance(?, ?, ?, ?)", lat1, lng2, lat2, lng2)
         end
