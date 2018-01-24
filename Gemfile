@@ -8,6 +8,8 @@ gemspec
 # jquery-rails is used by the dummy application
 gem "jquery-rails"
 
+ gem "sqlite3"
+
 source "http://pyr:akbash42@gems.cwikla.com/" do
   gem "pyr_gem", "~> 6.0.0"
 end

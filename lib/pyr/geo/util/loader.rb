@@ -52,9 +52,46 @@ module Pyr::Geo::Util
     def self.delete_country(name)
       name = name.strip.upcase
 
-      GeoName.delete_all and return if name == "ALL"
+      self.delete_all and return if name == "ALL"
 
-      GeoName.where(:iso_country => name).delete_all
+      self.where(:iso_country => name).delete_all
+    end
+
+    def self.recluster
+      done = {}
+
+      GeoName.find_each do |gn|
+        key = "#{gn.name.downcase}/#{gn.admin_code_1.downcase}/#{gn.iso_country.downcase}"
+        next if done[key]
+
+        all = GeoName.like(gn)
+
+        lat, lng = Pyr::Geo::Util::Coder::cluster(all.map{ |x| [x.latitude, x.longitude] })
+
+        GeoName.like(gn).update_all(cluster_latitude: lat, cluster_longitude: lng)
+        done[key] = 1
+        puts "Clustered #{gn.inspect}"
+
+      end
+    end
+
+    def self.set_primary
+      done = {}
+
+      GeoName.find_each do |gn|
+        key = "#{gn.name.downcase}/#{gn.admin_code_1.downcase}/#{gn.iso_country.downcase}"
+        next if done[key]
+
+        GeoName.like(gn).update_all(is_primary: false)
+
+        primary = GeoName.like(gn).select("id, postal_code, latitude, pyr_geo_distance(latitude, longitude, cluster_latitude, cluster_longitude) as distance").order("pyr_geo_distance(latitude, longitude, cluster_latitude, cluster_longitude)").first
+
+        primary.is_primary = true
+        primary.save
+
+        done[key] = 1
+        puts "Primary: #{key}"
+      end
     end
 
 

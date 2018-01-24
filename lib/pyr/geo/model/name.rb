@@ -9,6 +9,18 @@ module Pyr
       end
     
       module ClassMethods
+        def like(gn)
+          name = gn.name.downcase
+          admin_code_1 = gn.admin_code_1.downcase
+          iso_country = gn.iso_country.downcase
+
+          where("lower(name) = ?", name).where("lower(admin_code_1) = ?", admin_code_1).where("lower(iso_country) = ?", iso_country)
+        end
+
+        def geo_distance(lat1, lng1, lat2, lng2) 
+          select("pyr_geo_distance(?, ?, ?, ?)", lat1, lng2, lat2, lng2)
+        end
+
         def postal_search(s, **options)
           country = options[:country] || "US"
 
