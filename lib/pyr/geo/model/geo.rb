@@ -34,7 +34,7 @@ module Pyr
           p = p.select("*").select("pyr_geo_distance(latitude, longitude, #{latitude}, #{longitude}) as geo_distance")
           p = p.where("pyr_geo_distance(latitude, longitude, ?, ?) <= ?", latitude, longitude, distance)
 
-					puts p.inspect
+					#puts p.inspect
 
           return p
         end

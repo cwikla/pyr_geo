@@ -26,6 +26,10 @@ module Pyr
         def is_primary
           where(is_primary: true)
         end
+        
+        def not_primary
+          where(is_primary: false)
+        end
 
         def geo_distance(lat1, lng1, lat2, lng2) 
           select("pyr_geo_distance(?, ?, ?, ?)", lat1, lng2, lat2, lng2)
@@ -37,7 +41,7 @@ module Pyr
           s = (s || "").strip.downcase
 
           #where(iso_country: country).where("postal_code like (?)", "#{s}%")
-          where("lower(postal_code) like (?)", "#{s.strip.downcase}%")
+          not_primary.where("lower(postal_code) like (?)", "#{s.strip.downcase}%")
         end
 
         def city_search(s, **options)
@@ -45,7 +49,7 @@ module Pyr
 
           s = (s || "").strip.downcase
 
-          where(iso_country: country).where("lower(name) like (?)", "#{s.strip.downcase}%")
+          is_primary.where(is_primary: true).where(iso_country: country).where("lower(name) like (?)", "#{s.strip.downcase}%")
         end
 
         def search(s, **options)

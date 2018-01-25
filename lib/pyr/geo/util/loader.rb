@@ -76,7 +76,13 @@ module Pyr::Geo::Util
     end
 
     def self.set_primary
+      puts "Nothing to see here..."
+    end
+
+    def self.reprimary
       done = {}
+  
+      GeoName.update_all(is_primary: false)
 
       GeoName.find_each do |gn|
         key = "#{gn.name.downcase}/#{gn.admin_code_1.downcase}/#{gn.iso_country.downcase}"
@@ -86,6 +92,9 @@ module Pyr::Geo::Util
 
         primary = GeoName.like(gn).select("id, postal_code, latitude, pyr_geo_distance(latitude, longitude, cluster_latitude, cluster_longitude) as distance").order("pyr_geo_distance(latitude, longitude, cluster_latitude, cluster_longitude)").first
 
+        primary = GeoName.find(primary.id)
+
+        primary = primary.dup
         primary.is_primary = true
         primary.save
 
@@ -93,7 +102,6 @@ module Pyr::Geo::Util
         puts "Primary: #{key}"
       end
     end
-
 
     def self.country(name)
       cities = {}
