@@ -11,7 +11,7 @@ gem "jquery-rails"
  gem "sqlite3"
 
 source "http://pyr:akbash42@gems.cwikla.com/" do
-  gem "pyr_gem", "~> 6.0.0"
+  gem "pyr_gem"
 end
 
 # Declare any dependencies that are still in development here instead of in
